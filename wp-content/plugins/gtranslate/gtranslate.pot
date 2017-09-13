@@ -1,0 +1,38 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-08 10:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+msgid "GTranslate"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Makes your website <strong>multilingual</strong> and available to the world "
+"using Google Translate. For support visit <a href=\"https://wordpress."
+"org/support/plugin/gtranslate\">GTranslate Support</a>."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://gtranslate.io/?xyz=998"
+msgstr ""
+
+#. Author of the plugin
+msgid "Edvard Ananyan"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://gtranslate.io"
+msgstr ""

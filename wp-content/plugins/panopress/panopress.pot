@@ -1,0 +1,37 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-08 10:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+msgid "PanoPress"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Embed Flash & HTML5 360° Panoramas & Virtual Tours, 360° Video, Gigapixel "
+"Panoramas etc, created using KRPano, Pano2VR, PanoTour Pro, Flashificator, "
+"Saladoplayer, and similar panorama applications  on your WordPress site "
+"using a simple shortcode."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.panopress.org/"
+msgstr ""
+
+#. Author of the plugin
+msgid ""
+"<a href=\"http://www.omercalev.com\">Omer Calev</a> & <a href=\"http://www."
+"samrohn.com\">Sam Rohn</a>"
+msgstr ""

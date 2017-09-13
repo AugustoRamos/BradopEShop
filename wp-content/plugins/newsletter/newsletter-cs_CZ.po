@@ -1,0 +1,1349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Newsletter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-07 06:32+0000\n"
+"PO-Revision-Date: 2017-09-07 07:11+0000\n"
+"Last-Translator: augustohcr <augustohcr@gmail.com>\n"
+"Language-Team: Czech\n"
+"Language: cs-CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: tnp-footer.php:8
+msgid "Get Premium"
+msgstr "Získejte bonus"
+
+#: tnp-footer.php:13
+msgid "Your Account"
+msgstr ""
+"Váš účet\n"
+
+#: tnp-footer.php:14
+msgid "Forum"
+msgstr ""
+"Forum\n"
+
+#: tnp-footer.php:15
+msgid "Blog"
+msgstr "Blog"
+
+#: tnp-footer.php:23
+msgid "Stay updated"
+msgstr "Zůstaňte aktualizováni"
+
+#: tnp-header.php:33
+msgid "Subscribers"
+msgstr "Odběratelé"
+
+#: tnp-header.php:35
+msgid "Search And Edit"
+msgstr "Vyhledávání a úpravy"
+
+#: tnp-header.php:36
+msgid "Add, edit, search"
+msgstr "Přidat, upravit, vyhledávat"
+
+#: tnp-header.php:37 users/import.php:146 wp/index.php:148
+msgid "Import"
+msgstr ""
+"Import\n"
+
+#: tnp-header.php:38
+msgid "Import from external sources"
+msgstr "Import z externích zdrojů"
+
+#: tnp-header.php:39 users/export.php:23 users/export.php:52
+msgid "Export"
+msgstr "Vývozní"
+
+#: tnp-header.php:40
+msgid "Export your subscribers list"
+msgstr "Exportujte svůj seznam odběratelů"
+
+#: tnp-header.php:41 main/diagnostic.php:235
+msgid "Maintenance"
+msgstr "Údržba"
+
+#: tnp-header.php:42
+msgid "Massive actions: change list, clean up, ..."
+msgstr "Masivní akce: změna seznamu, vyčištění, ..."
+
+#: tnp-header.php:43 tnp-header.php:82 emails/index.php:139 main/index.php:85
+#: main/index.php:87 main/index.php:288
+msgid "Statistics"
+msgstr ""
+"Statistika\n"
+
+#: tnp-header.php:44
+msgid "All about your subscribers"
+msgstr "Vše o vašich odběratelích"
+
+#: tnp-header.php:50
+msgid "List Building"
+msgstr "Seznam budov"
+
+#: tnp-header.php:52
+msgid "Subscription"
+msgstr "Předplatné"
+
+#: tnp-header.php:53
+msgid "The subscription process in detail"
+msgstr "Proces předplatného podrobně"
+
+#: tnp-header.php:56
+msgid "WP Registration"
+msgstr "Registrace WP"
+
+#: tnp-header.php:57
+msgid "Subscribe on WP registration"
+msgstr "Přihlaste se k registraci WP"
+
+#: tnp-header.php:59
+msgid "Subscription Form Fields, Buttons, Labels"
+msgstr "Formuláře, tlačítka, štítky"
+
+#: tnp-header.php:60
+msgid "When and what data to collect"
+msgstr "Kdy a jaká data se shromažďují"
+
+#: tnp-header.php:61 emails/cpreview.php:372 emails/edit.php:427
+#: subscription/lists.php:27
+msgid "Lists"
+msgstr "Seznamy"
+
+#: tnp-header.php:62
+msgid "Profile the subscribers for a better targeting"
+msgstr "Profil předplatitelů pro lepší cílení"
+
+#: tnp-header.php:63
+msgid "Unsubscription"
+msgstr "Odhlásit se"
+
+#: tnp-header.php:64
+msgid "How to give the last goodbye (or avoid it!)"
+msgstr "Jak dát poslední sbohem (nebo se tomu vyhnout!)"
+
+#: tnp-header.php:66 lock/index.php:28
+msgid "Locked Content"
+msgstr "Uzamčený obsah"
+
+#: tnp-header.php:67
+msgid "Make your best content available only upon subscription"
+msgstr "Udělat svůj nejlepší obsah k dispozici pouze při předplatném"
+
+#: tnp-header.php:69 subscription/forms.php:24
+msgid "Custom Forms"
+msgstr "Vlastní formuláře"
+
+#: tnp-header.php:70
+msgid "Hand coded form storage"
+msgstr "Ručně kódované ukládání formulářů"
+
+#: tnp-header.php:71
+msgid "Messages Template"
+msgstr "Šablona zpráv"
+
+#: tnp-header.php:72
+msgid "Change the look of your service emails"
+msgstr "Změňte vzhled e-mailů služby"
+
+#: tnp-header.php:78 emails/index.php:61 main/index.php:239
+#: statistics/newsletters.php:33
+msgid "Newsletters"
+msgstr "Zpravodaje"
+
+#: tnp-header.php:80
+msgid "Single Newsletter"
+msgstr "Jednotný informační bulletin"
+
+#: tnp-header.php:81
+msgid "The classic \"write & send\" newsletters"
+msgstr "Klasické informační bulletiny \"psát a posílat\""
+
+#: tnp-header.php:83
+msgid "Tracking configuration and basic data"
+msgstr "Sledování konfigurace a základní data"
+
+#: tnp-header.php:89
+msgid "Settings"
+msgstr "Nastavení"
+
+#: tnp-header.php:91 main/main.php:108
+msgid "General Settings"
+msgstr ""
+"Obecné nastavení\n"
+
+#: tnp-header.php:92
+msgid "Delivery speed, sender details, ..."
+msgstr "Rychlost dodání, detaily odesílatele, ..."
+
+#: tnp-header.php:93 main/info.php:25
+msgid "Company Info"
+msgstr "Informace o společnosti"
+
+#: tnp-header.php:94
+msgid "Social, address, logo and general info"
+msgstr "Sociální, adresa, logo a obecné informace"
+
+#: tnp-header.php:95
+msgid "SMTP"
+msgstr "SMTP"
+
+#: tnp-header.php:96
+msgid "External mail servers"
+msgstr "Externí poštovní servery"
+
+#: tnp-header.php:97
+msgid "Diagnostics"
+msgstr "Diagnostika"
+
+#: tnp-header.php:98
+msgid "Something not working? Start here!"
+msgstr "Něco nefunguje? Začněte zde!"
+
+#: tnp-header.php:104 emails/cpreview.php:304 emails/cpreview.php:390
+#: emails/edit.php:375 emails/edit.php:445 emails/index.php:94
+#: main/status.php:139 statistics/index.php:254 statistics/newsletters.php:48
+#: users/index.php:170 users/massive.php:177
+msgid "Status"
+msgstr "Postavení"
+
+#: tnp-header.php:109
+msgid "Get Professional Extensions"
+msgstr "Získejte odborné rozšíření"
+
+#: tnp-header.php:116
+msgid "Licence not valid"
+msgstr "Licence není platná"
+
+#: tnp-header.php:122
+msgid "Licence active"
+msgstr "Licence je aktivní"
+
+#: tnp-header.php:127
+msgid "Licence expired"
+msgstr "Platnost licence uplynula"
+
+#: tnp-header.php:188 main/extensions.php:242
+msgid "Subscribe"
+msgstr ""
+"předplatit\n"
+
+#: emails/composer.php:23 emails/new.php:16 emails/new.php:71
+msgid "Here the email subject"
+msgstr "Zde je předmět e-mailu"
+
+#: emails/composer.php:93
+msgid "Compose a newsletter"
+msgstr "Vyplňte informační bulletin"
+
+#: emails/composer.php:94
+msgid "Read the guide"
+msgstr "Přečtěte si průvodce"
+
+#: emails/composer.php:100 includes/controls.php:729
+#: emails/tnp-composer/edit.php:19 emails/tnp-composer/edit.php:69
+#: emails/tnp-composer/edit.php:90 emails/tnp-composer/edit.php:122
+#: emails/tnp-composer/edit.php:138 emails/tnp-composer/edit.php:1440
+#: emails/tnp-composer/edit.php:1488 emails/tnp-composer/edit.php:1499
+msgid "Save"
+msgstr ""
+"Uložit\n"
+
+#: emails/composer.php:101
+msgid "Save & Preview"
+msgstr "Uložit a uložit"
+
+#: emails/cpreview.php:190 emails/cpreview.php:218 emails/edit.php:191
+#: emails/edit.php:219
+msgid "A subject is required to send"
+msgstr "Předmět je odeslán"
+
+#: emails/cpreview.php:194 emails/edit.php:195
+msgid "Now sending, see the progress on newsletter list"
+msgstr "Nyní odesíláte informace o pokroku na seznamu zpravodaje"
+
+#: emails/cpreview.php:213 emails/edit.php:214
+msgid "Delivery definitively cancelled"
+msgstr "Dodávka je definitivně zrušena"
+
+#: emails/cpreview.php:222 emails/edit.php:223
+msgid "There are no test subscribers to send to"
+msgstr "Neexistují zkušení uživatelé, kteří by měli odeslat"
+
+#: emails/cpreview.php:225 emails/edit.php:226
+msgid "Test newsletter sent to:"
+msgstr "Testovací zpravodaj zaslaný na adresu:"
+
+#: emails/cpreview.php:234 emails/edit.php:235
+msgid "Read more about test subscribers"
+msgstr "Přečtěte si další informace o testovaných odběratelích"
+
+#: emails/cpreview.php:268
+msgid "Preview Newsletter"
+msgstr "Náhled Newsletter"
+
+#: emails/cpreview.php:289 emails/edit.php:360
+msgid "Send"
+msgstr "Poslat"
+
+#: emails/cpreview.php:289 emails/edit.php:360
+msgid "Start real delivery?"
+msgstr "Začněte skutečné doručení?"
+
+#: emails/cpreview.php:290 emails/edit.php:361
+msgid "Pause"
+msgstr "Pauza"
+
+#: emails/cpreview.php:290 emails/edit.php:361
+msgid "Pause the delivery?"
+msgstr "Pozastavit doručení?"
+
+#: emails/cpreview.php:291 emails/edit.php:362
+msgid "Continue"
+msgstr "Pokračovat"
+
+#: emails/cpreview.php:292 emails/edit.php:363
+msgid "Stop"
+msgstr ""
+"Stop\n"
+
+#: emails/cpreview.php:292 emails/edit.php:363
+msgid "This totally stop the delivery, ok?"
+msgstr "To úplně zastaví doručení, dobře?"
+
+#: emails/cpreview.php:300 emails/edit.php:371
+msgid "Message"
+msgstr "Zpráva"
+
+#: emails/cpreview.php:301 emails/edit.php:372
+msgid "Message (textual)"
+msgstr "Zpráva (textová)"
+
+#: emails/cpreview.php:302 emails/edit.php:373
+msgid "Targeting"
+msgstr "Cílení"
+
+#: emails/cpreview.php:303 emails/edit.php:374 users/massive.php:169
+msgid "Other"
+msgstr ""
+"jiný\n"
+
+#: emails/cpreview.php:363 emails/edit.php:418 users/massive.php:235
+#: users/massive.php:244
+msgid "Gender"
+msgstr "Pohlaví"
+
+#: emails/cpreview.php:378 emails/edit.php:433
+msgid "checked below"
+msgstr "níže"
+
+#: emails/cpreview.php:392 emails/edit.php:447 users/import.php:172
+#: users/massive.php:192 wp/index.php:147
+msgid "Confirmed"
+msgstr "Potvrzeno"
+
+#: emails/cpreview.php:392 emails/edit.php:447 users/import.php:172
+#: wp/index.php:147
+msgid "Not confirmed"
+msgstr ""
+"Nepotvrzeno\n"
+
+#: emails/cpreview.php:395 emails/edit.php:450
+msgid ""
+"Send to not confirmed subscribers ONLY to ask for confirmation including the "
+"{subscription_confirm_url} tag."
+msgstr ""
+"Odesílejte nepotvrzeným účastníkům POUZE požádat o potvrzení včetně značky "
+"{subscription_confirm_url}."
+
+#: emails/cpreview.php:411 emails/edit.php:466
+msgid "Subscribers count"
+msgstr "Počet účastníků se počítá"
+
+#: emails/cpreview.php:422 emails/edit.php:477
+msgid "Save to update if on targeting filters have been changed"
+msgstr "Uložit k aktualizaci, pokud byly změněny filtry cílení"
+
+#: emails/cpreview.php:435 emails/edit.php:490
+msgid "Keep private"
+msgstr "Zůstaňte soukromí"
+
+#: emails/cpreview.php:442 emails/edit.php:497
+msgid "Hide/show from public sent newsletter list."
+msgstr "Skrýt / zobrazit z veřejně zasílaného seznamu zpravodaje."
+
+#: emails/cpreview.php:443 emails/edit.php:498
+msgid "Required"
+msgstr ""
+"Povinný\n"
+
+#: emails/cpreview.php:448 emails/edit.php:503
+msgid "Track clicks and message opening"
+msgstr "Sledování kliknutí a otevírání zpráv"
+
+#: emails/cpreview.php:454 emails/edit.php:509
+msgid "Send on"
+msgstr "Odeslat dál"
+
+#: emails/edit-html.php:32 emails/edit.php:388
+msgid "Available tags"
+msgstr "Dostupné značky"
+
+#: emails/edit.php:340
+msgid "Edit Newsletter"
+msgstr "Upravit Newsletter"
+
+#: emails/index.php:20
+msgid "Delivery engine triggered."
+msgstr "Doručovací motor byl spuštěn."
+
+#: emails/index.php:39
+msgid "Message duplicated."
+msgstr "Zpráva byla duplikována."
+
+#: emails/index.php:44
+msgid "Message deleted."
+msgstr "Zpráva byla smazána."
+
+#: emails/index.php:83
+msgid "New newsletter"
+msgstr "Nový informační bulletin"
+
+#: emails/index.php:84
+msgid "Delete selected newsletters"
+msgstr "Odstranit vybrané informační bulletiny"
+
+#: emails/index.php:84 includes/controls.php:734 includes/controls.php:755
+#: includes/controls.php:768 users/index.php:238 users/index.php:243
+#: users/index.php:244 wp/index.php:148
+msgid "Proceed?"
+msgstr "Pokračovat?"
+
+#: emails/index.php:86
+msgid "Trigger the delivery engine"
+msgstr "Spusťte doručovací motor"
+
+#: emails/index.php:93 statistics/index.php:252 statistics/newsletters.php:46
+msgid "Subject"
+msgstr ""
+"Předmět\n"
+
+#: emails/index.php:95
+msgid "Progress"
+msgstr "Pokrok"
+
+#: emails/index.php:96
+msgid "Date"
+msgstr ""
+"datum\n"
+
+#: emails/index.php:97 statistics/newsletters.php:51
+msgid "Tracking"
+msgstr "Sledování"
+
+#: emails/index.php:125 includes/module.php:602 main/index.php:261
+msgid "Scheduled"
+msgstr "Naplánováno"
+
+#: emails/index.php:127 includes/module.php:604 main/index.php:263
+msgid "Sending"
+msgstr "Odeslání"
+
+#: emails/index.php:134 includes/module.php:643 statistics/newsletters.php:64
+msgid "of"
+msgstr "z"
+
+#: emails/index.php:136
+msgid "Yes"
+msgstr ""
+"Ano\n"
+
+#: emails/index.php:136
+msgid "No"
+msgstr ""
+"Ne\n"
+
+#: emails/index.php:137 main/index.php:287 main/index.php:352
+#: users/index.php:237
+msgid "Edit"
+msgstr ""
+"Upravit\n"
+
+#: emails/index.php:149
+msgid ""
+"Expected total at the end of the delivery may differ, due to "
+"subscriptions/unsubscriptions occured meanwhile."
+msgstr ""
+"Očekávaná celková částka na konci doručení se může lišit, protože mezi tím "
+"došlo k odběru / odběru."
+
+#: emails/new.php:144
+msgid "Create a newsletter"
+msgstr "Vytvořte informační bulletin"
+
+#: emails/new.php:145
+msgid "Back to newsletter themes"
+msgstr "Zpět na témata newsletteru"
+
+#: emails/new.php:161
+msgid "Refresh the preview"
+msgstr "Obnovit náhled"
+
+#: emails/theme.php:57
+msgid "Select a theme"
+msgstr "Vyberte téma"
+
+#: emails/theme.php:69
+msgid "Responsive Drag & Drop Composer"
+msgstr "Odpovědný skladatel Drag & Drop"
+
+#: includes/controls.php:375 main/main.php:56
+msgid "Saved."
+msgstr ""
+"Uložen.\n"
+
+#: includes/controls.php:382
+msgid "Done."
+msgstr ""
+"Hotovo.\n"
+
+#: includes/controls.php:697
+msgid "Valid email address"
+msgstr ""
+"Platná emailová adresa\n"
+
+#: includes/controls.php:737
+msgid "Reset"
+msgstr "Resetovat"
+
+#: includes/controls.php:745
+msgid "Back"
+msgstr "Zadní"
+
+#: includes/controls.php:758
+msgid "Duplicate"
+msgstr "Duplikát"
+
+#: includes/controls.php:771
+msgid "Delete"
+msgstr "Vymazat"
+
+#: includes/module.php:608
+msgid "Sent"
+msgstr "Odeslaná"
+
+#: includes/module.php:610
+msgid "Paused"
+msgstr "Pozastaveno"
+
+#: includes/module.php:612 main/index.php:266
+msgid "Draft"
+msgstr "Návrh"
+
+#: lock/index.php:42
+msgid "Enabled"
+msgstr "Povoleno"
+
+#: lock/index.php:51
+msgid "Tags or categories to block"
+msgstr "Značky nebo kategorie, které chcete zablokovat"
+
+#: lock/index.php:53
+msgid "comma separated"
+msgstr "oddělená čárkou"
+
+#: lock/index.php:55
+msgid "Use tag or category slugs or id for which lock the posts content"
+msgstr ""
+"Použijte tagy nebo kategorie slimáků nebo id, pro které zamknout obsah "
+"příspěvků"
+
+#: lock/index.php:61
+msgid "Unlock destination URL"
+msgstr "Odemkněte cílovou adresu URL"
+
+#: lock/index.php:65
+msgid ""
+"URL where redirect subscribers when they click on unlocking URL ({unlock_url}"
+") inserted in newsletters and welcome message."
+msgstr ""
+"Adresa URL, kde odběratelé přesměrování při kliknutí na odemčenou adresu URL "
+"({unlock_url}) vložili do informačních bulletinů a uvítací zprávy."
+
+#: lock/index.php:73
+msgid "Denied content message"
+msgstr "Odmítnutá zpráva o obsahu"
+
+#: main/diagnostic.php:232
+msgid "Tests"
+msgstr "Testy"
+
+#: main/diagnostic.php:233
+msgid "Scheduler"
+msgstr "Plánovač"
+
+#: main/diagnostic.php:234
+msgid "Logging"
+msgstr ""
+"Protokolování\n"
+
+#: main/extensions.php:33
+msgid "Error while installing"
+msgstr "Při instalaci došlo k chybě"
+
+#: main/extensions.php:40 main/extensions.php:60
+msgid "Error while activating:"
+msgstr "Chyba při aktivaci:"
+
+#: main/extensions.php:42
+msgid "Installed and activated"
+msgstr "Instalováno a aktivováno"
+
+#: main/extensions.php:62
+msgid "Activated"
+msgstr "Aktivováno"
+
+#: main/extensions.php:94
+msgid "Extensions"
+msgstr "Rozšíření"
+
+#: main/extensions.php:118 main/extensions.php:156 main/extensions.php:187
+msgid "Plugin active"
+msgstr "Plugin aktivní"
+
+#: main/extensions.php:121 main/extensions.php:159 main/extensions.php:190
+msgid "Activate"
+msgstr ""
+"aktivovat\n"
+
+#: main/index.php:73
+msgid "Dashboard"
+msgstr ""
+"Přístrojová deska\n"
+
+#: main/index.php:74
+msgid "Your powerful control panel"
+msgstr "Váš výkonný ovládací panel"
+
+#: main/index.php:94
+msgid ""
+"These charts are only for example:<br>create and send your first newsletter "
+"to have real statistics!"
+msgstr ""
+"Tyto grafy jsou pouze příkladem: <br> vytvořte a odešlete svůj první "
+"bulletin, abyste získali skutečné statistiky!"
+
+#: main/index.php:101
+msgid "Last Newsletter"
+msgstr "Poslední informační bulletin"
+
+#: main/index.php:105
+msgid "Overall"
+msgstr "Celkově"
+
+#: main/index.php:172
+msgid "Subscriptions"
+msgstr "Předplatné"
+
+#: main/index.php:204
+msgid "Documentation"
+msgstr "Dokumentace"
+
+#: main/index.php:206
+msgid "Read all"
+msgstr "Přečtěte si vše"
+
+#: main/index.php:215
+msgid "Problem sending messages? Start here!"
+msgstr "Problém odesílání zpráv? Začněte zde!"
+
+#: main/index.php:221
+msgid "All Video Tutorials"
+msgstr "Všechny video tutoriály"
+
+#: main/index.php:226
+msgid "Learn how to segment your suscribers"
+msgstr "Zjistěte, jak segmentovat své odběratele"
+
+#: main/index.php:241 main/index.php:327 users/export.php:45
+msgid "List"
+msgstr "Seznam"
+
+#: main/index.php:244 main/index.php:330
+msgid "New"
+msgstr ""
+"Nový\n"
+
+#: main/index.php:299
+msgid "Premium"
+msgstr "Pojistné"
+
+#: main/index.php:301
+msgid "Buy"
+msgstr ""
+"Koupit\n"
+
+#: main/index.php:325
+msgid "Last Subscribers"
+msgstr "Poslední odběratelé"
+
+#: main/index.php:341 users/index.php:213
+msgid "NOT CONFIRMED"
+msgstr ""
+"NEPOTVRZENO\n"
+
+#: main/index.php:343 users/index.php:214
+msgid "CONFIRMED"
+msgstr "POTVRZENO"
+
+#: main/index.php:345 users/index.php:215
+msgid "UNSUBSCRIBED"
+msgstr "NEZABRIKOVÁNO"
+
+#: main/index.php:347 users/index.php:216
+msgid "BOUNCED"
+msgstr "BOUNCED"
+
+#: main/index.php:353
+msgid "Profile"
+msgstr "Profil"
+
+#: main/info.php:46 emails/themes/vimeo-like/theme-options.php:24
+msgid "General"
+msgstr "Všeobecné"
+
+#: main/info.php:47 emails/themes/vimeo-like/theme-options.php:25
+msgid "Social"
+msgstr "Sociální"
+
+#: main/main.php:30
+msgid "The sender email address is not correct."
+msgstr "E-mailová adresa odesílatele není správná."
+
+#: main/main.php:35
+msgid "Return path email is not correct."
+msgstr "E-mail zpáteční cesty není správný."
+
+#: main/main.php:49
+msgid "Reply to email is not correct."
+msgstr "Odpovědět na e-mail není správné."
+
+#: main/main.php:119
+msgid "Basic Settings"
+msgstr ""
+"Základní nastavení\n"
+
+#: main/main.php:120
+msgid "Delivery Speed"
+msgstr "Rychlost dodání"
+
+#: main/main.php:121
+msgid "Advanced Settings"
+msgstr ""
+"Pokročilé nastavení\n"
+
+#: main/main.php:136
+msgid "Sender email address"
+msgstr "E-mailová adresa odesílatele"
+
+#: main/main.php:141
+msgid "Email address from which subscribers will see your email coming."
+msgstr "E-mailová adresa, ze které budou předplatitelé vidět váš e-mail."
+
+#: main/main.php:150
+msgid "Sender name"
+msgstr "Jméno odesílatele"
+
+#: main/main.php:155
+msgid ""
+"Name from which subscribers will see your email coming (for example your "
+"blog title)."
+msgstr ""
+"Název, od kterého budou předplatitelé vidět váš e-mail (například název "
+"vašeho blogu)."
+
+#: main/main.php:163
+msgid "Return path"
+msgstr ""
+"Zpáteční cesta\n"
+
+#: main/main.php:174
+msgid "Reply to"
+msgstr ""
+"Odpovědět\n"
+
+#: main/main.php:219
+msgid "Max emails per hour"
+msgstr "Max e-maily za hodinu"
+
+#: main/smtp.php:21
+msgid "Saved. Remember to test your changes right now!"
+msgstr "Uložen. Nezapomeňte si otestovat změny právě teď!"
+
+#: main/smtp.php:103
+msgid "SMTP Settings"
+msgstr "Nastavení SMTP"
+
+#: main/status.php:124
+msgid "System Status"
+msgstr "Stav systému"
+
+#: statistics/index.php:93
+msgid "Global Newsletter Statistics"
+msgstr "Statistika globálních zpravodajů"
+
+#: statistics/index.php:112
+msgid "Update Charts"
+msgstr "Aktualizovat grafy"
+
+#: statistics/index.php:191
+msgid "Total Sent Messages"
+msgstr "Celkem odeslané zprávy"
+
+#: statistics/index.php:198
+msgid "Opened Newsletters"
+msgstr "Otevřené bulletiny"
+
+#: statistics/index.php:205
+msgid "Clicked Newsletters"
+msgstr "Kliknuté bulletiny"
+
+#: statistics/index.php:218 statistics/settings.php:39
+msgid "Countries"
+msgstr "Země"
+
+#: statistics/index.php:242
+msgid "Last newsletters"
+msgstr "Poslední informační bulletiny"
+
+#: statistics/index.php:242
+msgid "Details"
+msgstr "Podrobnosti"
+
+#: statistics/settings.php:26
+msgid "Statistics Settings"
+msgstr "Nastavení statistiky"
+
+#: statistics/settings.php:38
+msgid "Configuration"
+msgstr "Konfigurace"
+
+#: statistics/settings.php:46
+msgid "Secret key"
+msgstr "Tajný klíč"
+
+#: statistics/view.php:27
+msgid "Statistics of"
+msgstr "Statistiky společnosti"
+
+#: statistics/view.php:38
+msgid "No data, newsletter not sent yet."
+msgstr "Žádné údaje, newsletter nebyl odeslán."
+
+#: subscription/options.php:174
+msgid "Subscription, Profile Page Configuration"
+msgstr "Předplatné, Konfigurace stránky profilu"
+
+#: subscription/options.php:243
+msgid "Custom styles"
+msgstr "Vlastní styly"
+
+#: subscription/options.php:269
+msgid "Forced lists"
+msgstr "Nucené seznamy"
+
+#: subscription/profile.php:37
+msgid "Subscription Form Fields and Layout"
+msgstr "Pole a rozložení formuláře předplatného"
+
+#: subscription/template.php:16
+msgid "The tag {message} is missing in your template"
+msgstr "V šabloně chybí tag {message}"
+
+#: subscription/template.php:30
+msgid "No test subscribers found."
+msgstr "Nebyli nalezeni testoví účastníci."
+
+#: subscription/template.php:86
+msgid "Messages template"
+msgstr "Šablona zpráv"
+
+#: subscription/template.php:114
+msgid "Template"
+msgstr "Šablona"
+
+#: subscription/unsubscription.php:79
+msgid "Unsubscription message"
+msgstr "Odhlásit zprávu"
+
+#: subscription/unsubscription.php:91
+msgid "Goodbye message"
+msgstr "Sbohem"
+
+#: subscription/unsubscription.php:101
+msgid "Goodbye email"
+msgstr "Sbohem e-mail"
+
+#: users/edit.php:84
+msgid "Editing"
+msgstr "Úpravy"
+
+#: users/edit.php:233
+msgid "Created"
+msgstr "Vytvořeno"
+
+#: users/edit.php:239
+msgid "WP user ID"
+msgstr "ID uživatele WP"
+
+#: users/export.php:37
+msgid "Field separator"
+msgstr "Oddělovač polí"
+
+#: users/import.php:170
+msgid "Import Subscribers As"
+msgstr "Importovat odběratele jako"
+
+#: users/import.php:174
+msgid "Override status of existing users"
+msgstr "Přepsat stav stávajících uživatelů"
+
+#: users/import.php:184
+msgid ""
+"user data will be updated, existing preferences will be left untouched and "
+"new ones will be added."
+msgstr ""
+"uživatelská data budou aktualizována, stávající preference budou ponechány "
+"nedotčené a budou přidány nové."
+
+#: users/import.php:185
+msgid ""
+"user data will be overwritten with new informations (like name and "
+"preferences)."
+msgstr ""
+"uživatelská data budou přepsána novými informacemi (například názvy a "
+"preference)."
+
+#: users/import.php:186
+msgid "user data will be left untouched if already present."
+msgstr "uživatelské údaje zůstanou nedotčené, pokud jsou již k dispozici."
+
+#: users/import.php:210
+msgid "CSV file"
+msgstr "Soubor CSV"
+
+#: users/index.php:124
+msgid "Search and Edit"
+msgstr "Vyhledávání a úpravy"
+
+#: users/index.php:125
+msgid "Add a new subscriber"
+msgstr "Přidejte nového účastníka"
+
+#: users/index.php:136
+msgid "Search text"
+msgstr "Hledání textu"
+
+#: users/index.php:138
+msgid "filter by"
+msgstr ""
+"filtrovat podle\n"
+
+#: users/index.php:142
+msgid "Search"
+msgstr ""
+"Vyhledávání\n"
+
+#: users/index.php:144
+msgid "Reset Filters"
+msgstr "Obnovit filtry"
+
+#: users/index.php:147
+msgid "Show lists"
+msgstr "Zobrazit seznamy"
+
+#: users/index.php:154 users/index.php:256
+msgid "Go"
+msgstr ""
+"Jít\n"
+
+#: users/index.php:158
+msgid "subscriber(s) found"
+msgstr "nalezen (a) účastník (é)"
+
+#: users/index.php:172
+msgid "Preferences"
+msgstr "Předvolby"
+
+#: users/index.php:238
+msgid "Remove"
+msgstr "dstranit"
+
+#: users/index.php:243
+msgid "Resend confirmation"
+msgstr "Potvrďte znovu"
+
+#: users/index.php:244
+msgid "Resend welcome"
+msgstr "Znovu přivítat"
+
+#: users/index.php:245
+msgid "Profile page"
+msgstr "Stránka profilu"
+
+#: users/massive.php:19
+msgid "Subscribers not confirmed deleted: "
+msgstr "Odběratelé nebyli potvrzeni smazána:"
+
+#: users/massive.php:24
+msgid "Subscribers unsubscribed deleted: "
+msgstr "Odstranění odběru odběratelů bylo smazáno:"
+
+#: users/massive.php:29
+msgid "Subscribers bounced deleted: "
+msgstr "Odmítnutí odběratelů bylo smazáno:"
+
+#: users/massive.php:34
+msgid "Subscribers changed to not confirmed: "
+msgstr "Odběratelé se změnili na nepotvrzené:"
+
+#: users/massive.php:39
+msgid "Subscribers changed to confirmed: "
+msgstr "Odběratelé se změnili na potvrzenou:"
+
+#: users/massive.php:44
+msgid "Subscribers deleted: "
+msgstr "Odběratelé byli smazáni:"
+
+#: users/massive.php:49
+msgid "added to the list/preference"
+msgstr "přidáno do seznamu / preference"
+
+#: users/massive.php:54
+msgid "removed to the list/preference"
+msgstr "odstraněn do seznamu / preference"
+
+#: users/massive.php:78
+msgid "Confirmation email sent to:"
+msgstr "Potvrzovací e-mail byl odeslán na adresu:"
+
+#: users/massive.php:146
+msgid "Subscribers Maintenance"
+msgstr "Údržba účastníků"
+
+#: users/massive.php:147
+msgid "Please, backup before run a massive action."
+msgstr "Prosím, zálohujte před spuštěním masivní akce."
+
+#: users/massive.php:167
+msgid "Massive actions"
+msgstr "Masivní akce"
+
+#: users/massive.php:168 users/massive.php:255
+msgid "Preferences/lists management"
+msgstr "Nastavení preferencí / seznamů"
+
+#: users/massive.php:178 users/massive.php:283
+msgid "Total"
+msgstr "Celkový"
+
+#: users/massive.php:179
+msgid "Actions"
+msgstr "Akce"
+
+#: users/massive.php:183
+msgid "Total collected emails"
+msgstr "Celkem shromážděné e-maily"
+
+#: users/massive.php:188
+msgid "Delete all"
+msgstr ""
+"Smazat všechny\n"
+
+#: users/massive.php:188
+msgid "Are you sure you want to remove ALL subscribers?"
+msgstr "Opravdu chcete odebrat všechny účastníky?"
+
+#: users/massive.php:197
+msgid "Unconfirm all"
+msgstr "Nepotvrdit všechny"
+
+#: users/massive.php:197 users/massive.php:219 users/massive.php:229
+#: users/massive.php:258 users/massive.php:259 users/massive.php:260
+#: users/massive.php:316
+msgid "Are you sure?"
+msgstr ""
+"Jsi si jistá?\n"
+
+#: users/massive.php:206
+msgid "Delete all not confirmed"
+msgstr "Smazat vše není potvrzeno"
+
+#: users/massive.php:206
+msgid "Are you sure you want to delete ALL not confirmed subscribers?"
+msgstr "Opravdu chcete smazat všechny nepotvrzené odběratele?"
+
+#: users/massive.php:207
+msgid "Confirm all"
+msgstr "Potvrďte vše"
+
+#: users/massive.php:207
+msgid "Are you sure you want to mark ALL subscribers as confirmed?"
+msgstr "Opravdu chcete zaškrtnout všechny účastníky?"
+
+#: users/massive.php:209
+msgid "We have some tips about global actions, read more."
+msgstr ""
+"Máme několik tipů ohledně globálních akcí, přečtěte si další informace."
+
+#: users/massive.php:214
+msgid "Unsubscribed"
+msgstr "Odpojeno"
+
+#: users/massive.php:219
+msgid "Delete all unsubscribed"
+msgstr "Odstranit všechny odhlášené položky"
+
+#: users/massive.php:224
+msgid "Bounced"
+msgstr "Odrazil"
+
+#: users/massive.php:229
+msgid "Delete all bounced"
+msgstr "Smazat všechny skoky"
+
+#: users/massive.php:277
+msgid "Totals refer only to confirmed subscribers."
+msgstr "Celkové údaje se týkají pouze potvrzených odběratelů."
+
+#: users/massive.php:281
+msgid "Number"
+msgstr "Číslo"
+
+#: users/massive.php:282
+msgid "Preference"
+msgstr "Přednost"
+
+#: users/massive.php:306
+msgid "Bounced addresses"
+msgstr "Odmítnuté adresy"
+
+#: users/massive.php:310
+msgid "One email address per line."
+msgstr "Jedna e-mailová adresa na jeden řádek."
+
+#: users/new.php:31
+msgid "New Subscriber"
+msgstr "Nový účastník"
+
+#: users/statistics.php:29
+msgid "Subscriber statistics"
+msgstr "Statistika odběratelů"
+
+#: widget/minimal.php:79 widget/standard.php:200
+msgid "Automatically subscribe to"
+msgstr "Automatické přihlášení k odběru"
+
+#: wp/index.php:67
+msgid "WordPress users processed"
+msgstr "Uživatelé WordPress zpracováni"
+
+#: wp/index.php:68
+msgid "subscriptions added"
+msgstr "přidány odběry"
+
+#: wp/index.php:78
+msgid "WordPress Registration Integration"
+msgstr "Integrace registrace WordPress"
+
+#: wp/index.php:106
+msgid "Check box label"
+msgstr "Zaškrtávací políčko"
+
+#: wp/index.php:113
+msgid "Confirmation"
+msgstr ""
+"potvrzení\n"
+
+#: wp/index.php:127
+msgid "Send welcome email to registered users"
+msgstr "Pošlete uvítací e-mail registrovaným uživatelům"
+
+#: wp/index.php:133
+msgid "Subscription delete"
+msgstr "Odstranění odběru"
+
+#: wp/index.php:142
+msgid "Import already registered users"
+msgstr "Import již registrovaných uživatelů"
+
+#: wp/index.php:145
+msgid "Import with status"
+msgstr "Import se stavem"
+
+#: wp/index.php:151
+msgid "Please, carefully read the documentation before taking this action!"
+msgstr "Před provedením této akce pečlivě přečtěte dokumentaci!"
+
+#: emails/tnp-composer/edit.php:6
+msgid "Edit Image"
+msgstr "Upravit obrázek"
+
+#: emails/tnp-composer/edit.php:8
+msgid "SOURCE"
+msgstr "ZDROJ"
+
+#: emails/tnp-composer/edit.php:13
+msgid "ALT TEXT"
+msgstr "ALT TEXT"
+
+#: emails/tnp-composer/edit.php:15
+msgid "LINK"
+msgstr ""
+"ODKAZ\n"
+
+#: emails/tnp-composer/edit.php:20 emails/tnp-composer/edit.php:70
+#: emails/tnp-composer/edit.php:91 emails/tnp-composer/edit.php:123
+#: emails/tnp-composer/edit.php:139 emails/tnp-composer/edit.php:1405
+#: emails/tnp-composer/edit.php:1441 emails/tnp-composer/edit.php:1489
+#: emails/tnp-composer/edit.php:1500
+msgid "Cancel"
+msgstr ""
+"zrušení\n"
+
+#: emails/tnp-composer/edit.php:60
+msgid "Edit Link"
+msgstr "Upravit odkaz"
+
+#: emails/tnp-composer/edit.php:63 emails/tnp-composer/edit.php:80
+msgid "TITLE"
+msgstr "TITUL"
+
+#: emails/tnp-composer/edit.php:65 emails/tnp-composer/edit.php:82
+msgid "URL"
+msgstr "URL"
+
+#: emails/tnp-composer/edit.php:77
+msgid "Edit Button"
+msgstr "Tlačítko Upravit"
+
+#: emails/tnp-composer/edit.php:84 emails/tnp-composer/edit.php:103
+msgid "Text Color"
+msgstr "Barva textu"
+
+#: emails/tnp-composer/edit.php:86 emails/tnp-composer/edit.php:1415
+#: emails/tnp-composer/edit.php:1451
+msgid "Background Color"
+msgstr ""
+"Barva pozadí\n"
+
+#: emails/tnp-composer/edit.php:98
+msgid "Edit Title"
+msgstr "Upravit titul"
+
+#: emails/tnp-composer/edit.php:101
+msgid "Title"
+msgstr "Titul"
+
+#: emails/tnp-composer/edit.php:106
+msgid "Font size"
+msgstr ""
+"Velikost písma\n"
+
+#: emails/tnp-composer/edit.php:113
+msgid "Text align"
+msgstr "Zarovnat text"
+
+#: emails/tnp-composer/edit.php:131
+msgid "Edit Text"
+msgstr "Upravit text"
+
+#: emails/tnp-composer/edit.php:134
+msgid "Text"
+msgstr ""
+"Text\n"
+
+#: emails/tnp-composer/edit.php:147
+msgid "Edit Icon"
+msgstr "Upravit ikonu"
+
+#: emails/tnp-composer/edit.php:150
+msgid "Select Icon"
+msgstr "Vyberte ikonu"
+
+#: emails/tnp-composer/edit.php:1412 emails/tnp-composer/edit.php:1448
+msgid "Edit Block"
+msgstr "Upravit blok"
+
+#: emails/tnp-composer/edit.php:1417 emails/tnp-composer/edit.php:1453
+msgid "Font Family"
+msgstr "Rodina písem"
+
+#: emails/tnp-composer/edit.php:1476
+msgid "Number of posts"
+msgstr "Počet příspěvků"
+
+#: emails/tnp-composer/edit.php:1478
+msgid "Categories"
+msgstr ""
+"Kategorie\n"
+
+#: emails/tnp-composer/edit.php:1483
+msgid "Tags (comma separated)"
+msgstr "Štítky (oddělené čárkami)"
+
+#: emails/tnp-composer/edit.php:1487
+msgid ""
+"Any prior changes to single posts will be lost when editing these settings."
+msgstr ""
+"Jakékoli předchozí změny jednotlivých příspěvků se při úpravách těchto "
+"nastavení ztratí."
+
+#: emails/themes/vimeo-like/theme-defaults.php:7
+msgid "Read More"
+msgstr ""
+"Přečtěte si více\n"
+
+#: emails/tnp-composer/blocks/footer-01-footer.block.php:10
+msgid "Change your subscription"
+msgstr "Změňte předplatné"
+
+#: emails/tnp-composer/blocks/footer-01-footer.block.php:14
+msgid "View online"
+msgstr "Zobrazit online"
+
+#. Name of the plugin
+msgid "Newsletter"
+msgstr ""
+"Zpravodaj\n"
+
+#. Description of the plugin
+msgid ""
+"Newsletter is a cool plugin to create your own subscriber list, to send "
+"newsletters, to build your business. <strong>Before update give a look to <a "
+"href=\"https://www.thenewsletterplugin.com/category/release\">this page</a> "
+"to know what's changed.</strong>"
+msgstr ""
+"Newsletter je skvělý plugin pro vytvoření vlastního seznamu předplatitelů, "
+"pro zasílání informačních bulletinů, pro budování vašeho podnikání. <strong> "
+"Před aktualizací se podívejte na <a href=\"https://www.thenewsletterplugin."
+"com/category/release\"> tuto stránku </a>, abyste věděli, co se změnilo. </ "
+"strong>"
+
+#. URI of the plugin
+msgid "https://www.thenewsletterplugin.com/plugins/newsletter"
+msgstr "https://www.thenewsletterplugin.com/plugins/newsletter"
+
+#. Author of the plugin
+msgid "Stefano Lissa & The Newsletter Team"
+msgstr "Stefano Lissa & The Newsletter Team"
+
+#. Author URI of the plugin
+msgid "https://www.thenewsletterplugin.com"
+msgstr "https://www.thenewsletterplugin.com"

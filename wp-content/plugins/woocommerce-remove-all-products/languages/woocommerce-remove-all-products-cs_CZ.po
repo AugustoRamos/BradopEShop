@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Remove All Products\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-07 15:26-0300\n"
+"PO-Revision-Date: 2017-09-08 10:56+0000\n"
+"Last-Translator: augustohcr <augustohcr@gmail.com>\n"
+"Language-Team: Czech\n"
+"Language: cs-CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2"
+
+#: ../plugin.php:29 ../plugin.php:63
+msgid "WooCommerce Remove All Products"
+msgstr "WooCommerce Odstranit všechny produkty"
+
+#: ../plugin.php:30
+msgid "Remove All Products"
+msgstr "Odstraňte všechny produkty"
+
+#: ../plugin.php:65
+msgid "Log"
+msgstr "Přihlásit se"
+
+#: ../plugin.php:72
+msgid "Your settings have been saved."
+msgstr ""
+"\n"
+"30/5000\n"
+"Vaše nastavení bylo uloženo.\n"
+"Suggest an edit\n"
+
+#: ../plugin.php:109
+msgid "No products found."
+msgstr "Nenašli se žádné produkty."
+
+#: ../plugin.php:111
+#, php-format
+msgid "Found %s products."
+msgstr "Nalezeny %s produkty."
+
+#: ../plugin.php:116
+msgid "Delete all products, no confirmations will be asked!!"
+msgstr "Smazat všechny produkty, nebudou požadovány žádné potvrzení!"
+
+#: ../plugin.php:129
+#, php-format
+msgid "Trying to remove %s products."
+msgstr "Snažím se odstranit %s produkty."
+
+#: ../plugin.php:141
+#, php-format
+msgid "Removed %s products."
+msgstr "Byly odstraněny %s produkty."
+
+#: ../plugin.php:145
+msgid "Stopped processing due to imminent timeout."
+msgstr "Zastavení zpracování kvůli bezprostřednímu časového limitu."
+
+#: ../plugin.php:150
+msgid "Continue deleting all products, again no confirmations will be asked!!"
+msgstr ""
+"Pokračujte ve smazání všech produktů, znovu se nepožadují žádné potvrzení!"
+
+#: ../plugin.php:176
+msgid "Logged events"
+msgstr "Přihlášené události"
+
+#: ../plugin.php:178
+msgid "Clear Log"
+msgstr "Vymazat protokol"
+
+#: ../plugin.php:183
+msgid "Timestamp"
+msgstr "Časové razítko"
+
+#: ../plugin.php:184
+msgid "Event"
+msgstr ""
+"událost\n"
+
+#: ../plugin.php:185
+msgid "User"
+msgstr "Uživatel"
+
+#: ../plugin.php:246 ../plugin.php:262
+msgid "Log Started."
+msgstr "Přihlásit se k odběru."
+
+#: ../plugin.php:274
+msgid "Log cleared."
+msgstr "Záznam byl zrušen."
+
+#: ../plugin.php:287
+#, php-format
+msgid ""
+"Please rate <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;"
+"&#9733;</a> for <strong>WooCommerce Remove All Products</strong> on <a "
+"href=\"%1$s\" target=\"_blank\">WordPress.org</a> and make the developer "
+"happy :-)"
+msgstr ""
+"Přihlaste <a href=\"%1$s\" target=\"_blank\"> ★★★★★ </a> pro <strong> "
+"WooCommerce Remove All Products </ strong> na <a href = \"%1$s\" target = "
+"\"_ blank\"> WordPress.org </a> a učinit vývojáře šťastným :-)"

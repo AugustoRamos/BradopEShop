@@ -1,0 +1,1562 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AccessPress Store\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-05 11:01+0000\n"
+"PO-Revision-Date: 2017-09-12 07:34+0000\n"
+"Last-Translator: augustohcr <augustohcr@gmail.com>\n"
+"Language-Team: Czech\n"
+"Language: cs-CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Jejda! Tato stránka nemůže být nalezena."
+
+#: 404.php:18
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Zdá se, že na tomto místě nebylo nic nalezeno. Možná zkusit jeden z níže "
+"uvedených odkazů nebo hledat?"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Jedna myšlenka na \"%2$s\""
+msgstr[1] "%1$s myšlenky na \"%2$s\""
+
+#: comments.php:34 comments.php:56
+msgid "Comment navigation"
+msgstr "Komentářová navigace"
+
+#: comments.php:37 comments.php:59
+msgid "Older Comments"
+msgstr ""
+"starší komentáře\n"
+
+#: comments.php:38 comments.php:60
+msgid "Newer Comments"
+msgstr ""
+"novější komentáře\n"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: content-blog.php:61 content-single.php:18 content.php:20
+#: template-blog.php:104
+msgid "Posted On"
+msgstr ""
+"Vloženo na\n"
+
+#: content-blog.php:63 content-single.php:20 content.php:22
+#: template-blog.php:106
+msgid "at"
+msgstr ""
+"na\n"
+
+#: content-blog.php:65 content-single.php:22 content.php:24
+#: template-blog.php:108
+msgid "by"
+msgstr "podle"
+
+#: content-blog.php:82 content.php:35 template-blog.php:125
+msgid "Read More"
+msgstr ""
+"Přečtěte si více\n"
+
+#: content-blog.php:86 content-page.php:23 content-single.php:30
+msgid "Pages:"
+msgstr "tránky:"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+"Nic nalezeno\n"
+
+#: content-none.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Jste připraveni publikovat svůj první příspěvek? <a href=\"%1$s\"> Začněte "
+"zde </a>."
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Je nám líto, ale vaše vyhledávací dotazy neodpovídalo. Zkuste to prosím "
+"znovu s některými různými klíčovými slovy."
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Zdá se, že nemůžeme najít to, co hledáte. Snad vyhledávání může pomoci."
+
+#: footer.php:58
+msgid "Partner Logo 1"
+msgstr "Logo partnera 1"
+
+#: footer.php:62
+msgid "Partner Logo 2"
+msgstr "Partner Logo 2"
+
+#: footer.php:66
+msgid "Partner Logo 3"
+msgstr "Partner Logo 3"
+
+#: footer.php:70
+msgid "Partner Logo 4"
+msgstr "Partner Logo 4"
+
+#: footer.php:74
+msgid "SSL Seal"
+msgstr "SSL Seal"
+
+#: footer.php:78
+msgid "Other Seal 1"
+msgstr "Další pečeť 1"
+
+#: footer.php:82
+msgid "Other Seal 2"
+msgstr "Další pečeť 2"
+
+#: footer.php:93
+msgid "&copy; %1$s %2$s"
+msgstr "&copy; %1$s %2$s"
+
+#: footer.php:95
+msgid "WordPress Theme : %1$s by %2$s"
+msgstr ""
+
+#: functions.php:63
+msgid "Primary Menu"
+msgstr "Hlavní nabídka"
+
+#: functions.php:102 inc/widgets/widget-fields.php:210
+msgid "Upload"
+msgstr ""
+"nahrát\n"
+
+#: functions.php:103 inc/widgets/widget-fields.php:212
+msgid "Remove"
+msgstr "Odstranit"
+
+#: functions.php:121 functions.php:122
+msgid "More Themes"
+msgstr "Další témata"
+
+#: functions.php:135
+msgid ""
+"More Themes from <a href=\"%s\" target=\"_blank\">AccessPress Themes</a>"
+msgstr ""
+"Další motivy z <a href=\"%s\" target=\"_blank\"> témat AccessPress </a>"
+
+#: functions.php:163
+msgid "Active"
+msgstr "Aktivní"
+
+#: functions.php:165
+msgid "Customize"
+msgstr "Přizpůsobte"
+
+#: functions.php:200
+msgid "Already installed"
+msgstr ""
+"Už nainstalováno\n"
+
+#: functions.php:203
+msgid "Activate"
+msgstr ""
+"aktivovat\n"
+
+#: functions.php:212
+msgid "Install Now"
+msgstr ""
+"Nainstalovat nyní\n"
+
+#: functions.php:215
+msgid "Live Preview"
+msgstr "Live Preview"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Výsledky hledání pro:% s"
+
+#: searchform.php:8
+msgid "Search products"
+msgstr "Vyhledávání produktů"
+
+#. Name of the template
+msgid "Blog Page Template"
+msgstr "Šablona stránky blogu"
+
+#. Name of the template
+msgid "HomePage"
+msgstr ""
+"Domovská stránka\n"
+
+#: header/header-one.php:15 header/header-two.php:15
+msgid "Welcome"
+msgstr ""
+"Vítejte\n"
+
+#: header/header-one.php:21 header/header-two.php:21
+msgid "!"
+msgstr "!"
+
+#: header/header-one.php:62 header/header-two.php:68
+msgid " Logout"
+msgstr ""
+"Odhlásit se\n"
+
+#: header/header-one.php:66 header/header-two.php:74
+msgid "Login"
+msgstr ""
+"Přihlásit se\n"
+
+#: header/header-one.php:102 header/header-two.php:110
+msgid "Menu"
+msgstr ""
+"Jídelní lístek\n"
+
+#: inc/accesspress-function.php:10
+msgid "AP: Right Sidebar"
+msgstr "AP: Pravý postranní panel"
+
+#: inc/accesspress-function.php:20
+msgid "AP: Left Sidebar"
+msgstr "AP: Levý postranní panel"
+
+#: inc/accesspress-function.php:30
+msgid "Shop Sidebar"
+msgstr "Stranový panel obchodu"
+
+#: inc/accesspress-function.php:40
+msgid "Header Call To Box"
+msgstr "Záhlaví volání do schránky"
+
+#: inc/accesspress-function.php:50
+msgid "AP: Promo Widget 1"
+msgstr "AP: Widget promo 1"
+
+#: inc/accesspress-function.php:60
+msgid "AP: Product Listing Widget 1"
+msgstr "AP: Widget pro zápis produktu 1"
+
+#: inc/accesspress-function.php:70
+msgid "AP: Promo Widget 2"
+msgstr "AP: Promo Widget 2"
+
+#: inc/accesspress-function.php:80
+msgid "AP: Product Listing Widget 2"
+msgstr "AP: Widget pro zápis produktu 2"
+
+#: inc/accesspress-function.php:90
+msgid "AP: Video Call to Action"
+msgstr "AP: Video výzva k akci"
+
+#: inc/accesspress-function.php:100
+msgid "AP: Product Listing Widget 3"
+msgstr "AP: Widget pro zápis produktu 3"
+
+#: inc/accesspress-function.php:110
+msgid "AP: Promo Widget 3"
+msgstr "AP: Promo Widget 3"
+
+#: inc/accesspress-function.php:120
+msgid "Footer Area 1"
+msgstr "Zápatí oblasti 1"
+
+#: inc/accesspress-function.php:130
+msgid "Footer Area 2"
+msgstr "Zápatí oblasti 2"
+
+#: inc/accesspress-function.php:140
+msgid "Footer Area 3"
+msgstr "Zápatí oblasti 3"
+
+#: inc/accesspress-function.php:150
+msgid "Footer Area 4"
+msgstr "Zápatí oblasti 4"
+
+#: inc/accesspress-function.php:362
+msgid "View your shopping cart"
+msgstr "Zobrazit nákupní košík"
+
+#: inc/accesspress-function.php:465
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+"domů\n"
+
+#: inc/accesspress-function.php:481
+msgid "Home"
+msgstr ""
+"domů\n"
+
+#: inc/accesspress-function.php:500
+msgid "Archive by category"
+msgstr "Archiv podle kategorie"
+
+#: inc/accesspress-function.php:502
+msgid "Search results for"
+msgstr ""
+"Výsledky hledání pro\n"
+
+#: inc/accesspress-function.php:560
+msgid "Posts tagged"
+msgstr "Příspěvky označeny"
+
+#: inc/accesspress-function.php:564
+msgid "Articles posted by "
+msgstr "Články odeslané"
+
+#: inc/accesspress-function.php:572
+msgid "Page"
+msgstr "Strana"
+
+#: inc/accesspress-function.php:740
+msgid "Install Required Plugins"
+msgstr "Nainstalujte požadované doplňky"
+
+#: inc/accesspress-function.php:741
+msgid "Install Plugins"
+msgstr "Nainstalujte pluginy"
+
+#: inc/accesspress-function.php:742
+msgid "Installing Plugin: %s"
+msgstr "Instalace pluginu: %s"
+
+#: inc/accesspress-function.php:743
+msgid "Something went wrong with the plugin API."
+msgstr "Něco se nezdařilo s pluginovým rozhraním API."
+
+#: inc/accesspress-function.php:744
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Toto téma vyžaduje následující plugin: %1$s."
+msgstr[1] "Toto téma vyžaduje následující pluginy: %1$s."
+
+#: inc/accesspress-function.php:747
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Tento motiv doporučuje následující plugin: %1$s."
+msgstr[1] "Tento motiv doporučuje následující pluginy: %1$s."
+
+#: inc/accesspress-function.php:750
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+"Omlouváme se, ale nemáte správná oprávnění k instalaci pluginu %1$s."
+msgstr[1] "Je nám líto, ale nemáte správná oprávnění k instalaci pluginů %1$s."
+
+#: inc/accesspress-function.php:753
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Následující plugin musí být aktualizován na nejnovější verzi, aby byla "
+"zajištěna maximální kompatibilita s tímto tématem: %1$s."
+msgstr[1] ""
+"Následující moduly musí být aktualizovány na jejich nejnovější verzi, aby "
+"byla zajištěna maximální kompatibilita s tímto tématem: %1$s."
+
+#: inc/accesspress-function.php:756
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "K dispozici je aktualizace pro: %1$s."
+msgstr[1] "K dispozici jsou aktualizace pro následující pluginy: %1$s."
+
+#: inc/accesspress-function.php:759
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+"Je nám líto, ale nemáte správná oprávnění k aktualizaci pluginu %1$s."
+msgstr[1] ""
+"Je nám líto, ale nemáte správná oprávnění k aktualizaci pluginů %1$s."
+
+#: inc/accesspress-function.php:762
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Následující požadovaný plugin je aktuálně neaktivní: %1$s."
+msgstr[1] "Následující požadované pluginy jsou momentálně neaktivní: %1$s."
+
+#: inc/accesspress-function.php:765
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Následující doporučený plugin je aktuálně neaktivní: %1$s."
+msgstr[1] ""
+"V současné době jsou neaktivní následující doporučené pluginy: %1$s."
+
+#: inc/accesspress-function.php:768
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] "Je nám líto, ale nemáte správná oprávnění k aktivaci pluginu %1$s."
+msgstr[1] "Je nám líto, ale nemáte správná oprávnění k aktivaci pluginů %1$s."
+
+#: inc/accesspress-function.php:771
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Začněte instalovat plugin"
+msgstr[1] "Začněte instalovat pluginy"
+
+#: inc/accesspress-function.php:774
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Začněte plugin pro aktualizaci"
+msgstr[1] "Začněte aktualizovat pluginy"
+
+#: inc/accesspress-function.php:777
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Začněte aktivovat plugin"
+msgstr[1] "Začněte aktivovat pluginy"
+
+#: inc/accesspress-function.php:780
+msgid "Return to Required Plugins Installer"
+msgstr "Vraťte se k instalaci požadovaných pluginů"
+
+#: inc/accesspress-function.php:781
+msgid "Plugin activated successfully."
+msgstr "Plugin byl úspěšně aktivován."
+
+#: inc/accesspress-function.php:782
+msgid "The following plugin was activated successfully:"
+msgstr "Následující plugin byl úspěšně aktivován:"
+
+#: inc/accesspress-function.php:783
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nebyla provedena žádná akce. Plugin %1$s byl již aktivní."
+
+#: inc/accesspress-function.php:784
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin není aktivován. Pro toto téma je zapotřebí vyšší verze %s. "
+"Aktualizujte plugin."
+
+#: inc/accesspress-function.php:785
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Všechny pluginy byly nainstalovány a úspěšně aktivovány. %1$s"
+
+#: inc/accesspress-function.php:786
+msgid "Please contact the administrator of this site for help."
+msgstr "Obraťte se na správce tohoto webu a požádejte o pomoc."
+
+#: inc/custom-metabox.php:17
+msgid "Left sidebar"
+msgstr "Levý postranní panel"
+
+#: inc/custom-metabox.php:22
+msgid "Right sidebar<br/>(default)"
+msgstr "Pravá postranní lišta <br/> (výchozí)"
+
+#: inc/custom-metabox.php:27
+msgid "Both Sidebar"
+msgstr "Obě postranní panel"
+
+#: inc/custom-metabox.php:32
+msgid "No sidebar"
+msgstr "Žádný postranní panel"
+
+#: inc/custom-metabox.php:62
+msgid "You can set up the sidebar content"
+msgstr "Můžete nastavit obsah postranního panelu"
+
+#: inc/custom-metabox.php:62
+msgid "here"
+msgstr ""
+"zde\n"
+
+#: woocommerce/content-feat-product.php:83 woocommerce/content-product.php:68
+#: inc/widgets/widget-product1.php:211
+msgid "Wishlist"
+msgstr ""
+"Seznam přání\n"
+
+#: inc/core/extras.php:60
+msgid "Page %s"
+msgstr "Stránka %s"
+
+#: inc/core/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Příspěvek navigace"
+
+#: inc/core/template-tags.php:27
+msgid "Older posts"
+msgstr "Starší příspěvky"
+
+#: inc/core/template-tags.php:31
+msgid "Newer posts"
+msgstr "Novější příspěvky"
+
+#: inc/core/template-tags.php:56
+msgid "Post navigation"
+msgstr "Přejděte na navigaci"
+
+#: inc/core/template-tags.php:86
+msgid "Posted on %s"
+msgstr "Publikováno dne %s"
+
+#: inc/core/template-tags.php:91
+msgid "by %s"
+msgstr "o %s"
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/core/template-tags.php:108 inc/core/template-tags.php:114
+msgid ", "
+msgstr ", "
+
+#: inc/core/template-tags.php:110
+msgid "Posted in %1$s"
+msgstr "Publikováno v %1$s"
+
+#: inc/core/template-tags.php:116
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: inc/core/template-tags.php:122
+msgid "Leave a comment"
+msgstr ""
+"Zanechat komentář\n"
+
+#: inc/core/template-tags.php:122
+msgid "1 Comment"
+msgstr "1 komentář"
+
+#: inc/core/template-tags.php:122
+msgid "% Comments"
+msgstr "% Komentářů"
+
+#: inc/core/template-tags.php:126
+msgid "Edit"
+msgstr ""
+"Upravit\n"
+
+#: inc/core/template-tags.php:143
+msgid "Category: %s"
+msgstr "Kategorie: %s"
+
+#: inc/core/template-tags.php:145
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/core/template-tags.php:147
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/core/template-tags.php:149
+msgid "Year: %s"
+msgstr "Rok: %s"
+
+#: inc/core/template-tags.php:149
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/core/template-tags.php:151
+msgid "Month: %s"
+msgstr "Měsíc: %s"
+
+#: inc/core/template-tags.php:151
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/core/template-tags.php:153
+msgid "Day: %s"
+msgstr "Den: %s"
+
+#: inc/core/template-tags.php:153
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/core/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/core/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerie"
+
+#: inc/core/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+"snímky\n"
+
+#: inc/core/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videa"
+
+#: inc/core/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+"Citáty\n"
+
+#: inc/core/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Odkazy"
+
+#: inc/core/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Stavy"
+
+#: inc/core/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+"Zvuk\n"
+
+#: inc/core/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chaty"
+
+#: inc/core/template-tags.php:175
+msgid "Archives: %s"
+msgstr "Archivy: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/core/template-tags.php:179
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/core/template-tags.php:181
+msgid "Archives"
+msgstr "Archiv"
+
+#: inc/customizer/accesspress-sanitizer.php:9
+msgid "Boxed"
+msgstr "Boxed"
+
+#: inc/customizer/accesspress-sanitizer.php:10
+#: inc/customizer/general-settings/general-setting.php:197
+msgid "Full Width"
+msgstr ""
+"Plná šířka\n"
+
+#: inc/customizer/accesspress-sanitizer.php:21
+#: inc/customizer/layout-settings/pagepost-setting.php:103
+msgid "List"
+msgstr "Seznam"
+
+#: inc/customizer/accesspress-sanitizer.php:22
+#: inc/customizer/layout-settings/pagepost-setting.php:104
+msgid "Grid"
+msgstr "Mřížka"
+
+#: inc/customizer/accesspress-sanitizer.php:33
+#: inc/customizer/blog-settings/blog-setting.php:27
+msgid "Blog Image Large"
+msgstr "Blog Image velký"
+
+#: inc/customizer/accesspress-sanitizer.php:34
+#: inc/customizer/blog-settings/blog-setting.php:28
+msgid "Blog Image Medium"
+msgstr "Blog Obrázek střední"
+
+#: inc/customizer/accesspress-sanitizer.php:35
+#: inc/customizer/blog-settings/blog-setting.php:29
+msgid "Blog Image Medium Alternate"
+msgstr "Blog Image Médium Alternativní"
+
+#: inc/customizer/accesspress-sanitizer.php:36
+#: inc/customizer/blog-settings/blog-setting.php:30
+msgid "Blog Full Content"
+msgstr "Kompletní obsah blogu"
+
+#: inc/customizer/accesspress-sanitizer.php:47
+#: inc/customizer/general-settings/general-setting.php:152
+msgid "Color"
+msgstr ""
+"Barva\n"
+
+#: inc/customizer/accesspress-sanitizer.php:48
+#: inc/customizer/general-settings/general-setting.php:153
+msgid "Image"
+msgstr ""
+"obraz\n"
+
+#: inc/customizer/accesspress-sanitizer.php:49
+#: inc/customizer/general-settings/general-setting.php:154
+msgid "Pattern"
+msgstr "Vzor"
+
+#: inc/customizer/accesspress-sanitizer.php:92
+#: inc/customizer/slider-settings/slider-setting.php:78
+msgid "Fade"
+msgstr ""
+"Slábnout\n"
+
+#: inc/customizer/accesspress-sanitizer.php:93
+#: inc/customizer/slider-settings/slider-setting.php:79
+msgid "Slide"
+msgstr "Skluzavka"
+
+#: inc/customizer/accesspress-sanitizer.php:104
+#: inc/customizer/general-settings/general-setting.php:40
+msgid "Header Style One"
+msgstr "Záhlaví stylu jedna"
+
+#: inc/customizer/accesspress-sanitizer.php:105
+#: inc/customizer/general-settings/general-setting.php:41
+msgid "Header Style Two"
+msgstr "Záhlaví styl dva"
+
+#: inc/customizer/accesspress-sanitizer.php:116
+#: inc/customizer/general-settings/general-setting.php:20
+msgid "Widget Title Style One"
+msgstr "Titulek titulu Widget Jeden"
+
+#: inc/customizer/accesspress-sanitizer.php:117
+#: inc/customizer/general-settings/general-setting.php:21
+msgid "Widget Title Style Two"
+msgstr "Záhlavní titulový styl Dva"
+
+#: inc/customizer/accesspress-sanitizer.php:128
+#: inc/customizer/custom-control-class.php:17
+msgid "Enable"
+msgstr "Umožnit"
+
+#: inc/customizer/accesspress-sanitizer.php:129
+#: inc/customizer/custom-control-class.php:18
+msgid "Disable"
+msgstr "Zakázat"
+
+#: inc/customizer/accesspress-sanitizer.php:140
+#: inc/customizer/custom-control-class.php:35
+msgid "Yes"
+msgstr ""
+"Ano\n"
+
+#: inc/customizer/accesspress-sanitizer.php:141
+#: inc/customizer/custom-control-class.php:36
+msgid "No"
+msgstr ""
+"Ne\n"
+
+#: inc/customizer/custom-control-class.php:112
+msgid "Fully built on customizer!"
+msgstr "Plně postaven na customizeru!"
+
+#: inc/customizer/custom-control-class.php:113
+msgid "Next generation WooCommerce theme"
+msgstr "Téma WooCommerce nové generace"
+
+#: inc/customizer/custom-control-class.php:114
+msgid "Deep WooCommerce Integration!"
+msgstr "Deep WooCommerce Integrace!"
+
+#: inc/customizer/custom-control-class.php:115
+msgid "Mega menu"
+msgstr "Mega menu"
+
+#: inc/customizer/custom-control-class.php:116
+msgid "Advanced product search"
+msgstr "Pokročilé vyhledávání produktů"
+
+#: inc/customizer/custom-control-class.php:117
+msgid "Boxed and full layout"
+msgstr "Boxované a plné rozložení"
+
+#: inc/customizer/custom-control-class.php:118
+msgid "Unlimited slider options"
+msgstr "Neomezené možnosti posuvníku"
+
+#: inc/customizer/custom-control-class.php:119
+msgid "Background configuration"
+msgstr "Konfigurace pozadí"
+
+#: inc/customizer/custom-control-class.php:120
+msgid "Color configuration"
+msgstr "Konfigurace barev"
+
+#: inc/customizer/custom-control-class.php:121
+msgid "Highly configurable home page"
+msgstr "Vysoce konfigurovatelná domovská stránka"
+
+#: inc/customizer/custom-control-class.php:122
+msgid "Youtube video integration"
+msgstr "Youtube video integration"
+
+#: inc/customizer/custom-control-class.php:123
+msgid "Multiple Category display layout"
+msgstr "Rozložení zobrazení více kategorií"
+
+#: inc/customizer/custom-control-class.php:124
+msgid "Product and content search"
+msgstr "Vyhledávání produktů a obsahu"
+
+#: inc/customizer/custom-control-class.php:125
+msgid "Promo Ticker"
+msgstr "Promo Ticker"
+
+#: inc/customizer/custom-control-class.php:126
+msgid "Unlimited SSL Badge and credit card icons upload"
+msgstr "Neomezené nahrávání ikon SSL odznaků a kreditních karet"
+
+#: inc/customizer/custom-control-class.php:127
+msgid "WooCommerce settings"
+msgstr "Nastavení WooCommerce"
+
+#: inc/customizer/custom-control-class.php:128
+msgid "4 WooCommerce Archive layout"
+msgstr "4 Rozložení archivu WooCommerce"
+
+#: inc/customizer/custom-control-class.php:129
+msgid "4 Page layout"
+msgstr "4 rozvržení stránky"
+
+#: inc/customizer/custom-control-class.php:130
+msgid "4 Post layout"
+msgstr "4 Post layout"
+
+#: inc/customizer/custom-control-class.php:131
+msgid "Grid / list Archive view"
+msgstr "Mřížka / seznam Zobrazení archivu"
+
+#: inc/customizer/custom-control-class.php:132
+msgid "4 Blog layout"
+msgstr "4 Rozložení blogu"
+
+#: inc/customizer/custom-control-class.php:133
+msgid "14 Widgets"
+msgstr "14 Widgety"
+
+#: inc/customizer/custom-control-class.php:134
+msgid "Page banner"
+msgstr "Page banner"
+
+#: inc/customizer/custom-control-class.php:135
+msgid "Beautiful product page"
+msgstr "Krásná stránka produktu"
+
+#: inc/customizer/custom-control-class.php:136
+msgid "Beautiful checkout pages"
+msgstr "Krásné stránky pro kontrolu"
+
+#: inc/customizer/custom-control-class.php:137
+msgid "Widget for latest product with accordance"
+msgstr "Widget pro nejnovější produkt s souladu"
+
+#: inc/customizer/custom-control-class.php:138
+msgid "Tab section to show category"
+msgstr "Záložka pro zobrazení kategorie"
+
+#: inc/customizer/custom-control-class.php:139
+msgid "Tab section to show products"
+msgstr "Záložka pro zobrazení produktů"
+
+#: inc/customizer/custom-control-class.php:140
+msgid "Team section"
+msgstr "Sekce týmů"
+
+#: inc/customizer/custom-control-class.php:141
+msgid "Testimonial section"
+msgstr "Odpovědní sekce"
+
+#: inc/customizer/custom-control-class.php:142
+msgid "Client Logo Section"
+msgstr "Sekce Logo klienta"
+
+#: inc/customizer/custom-control-class.php:143
+msgid "Fully SEO optimized"
+msgstr "Plně SEO optimalizováno"
+
+#: inc/customizer/custom-control-class.php:144
+msgid "Fast loading"
+msgstr "Rychlé načítání"
+
+#: inc/customizer/custom-control-class.php:145
+msgid "A perfect theme to start your online shop of any kind!"
+msgstr "Perfektní téma k zahájení svého online obchodu jakéhokoli druhu!"
+
+#: inc/customizer/custom-control-class.php:148
+msgid "Buy Now"
+msgstr ""
+"Kup nyní\n"
+
+#: inc/widgets/widget-cta-simple.php:26
+msgid "A widget that shows Simple Call to Action"
+msgstr "Widget, který zobrazuje jednoduchou výzvu k akci"
+
+#: inc/widgets/widget-cta-simple.php:39 inc/widgets/widget-cta-video.php:39
+#: inc/widgets/widget-full-promo.php:39 inc/widgets/widget-icon-text.php:41
+#: inc/widgets/widget-product1.php:70 inc/widgets/widget-promo.php:39
+msgid "Title"
+msgstr "Titul"
+
+#: inc/widgets/widget-cta-simple.php:44 inc/widgets/widget-cta-video.php:44
+msgid "Description"
+msgstr "Popis"
+
+#: inc/widgets/widget-cta-simple.php:50 inc/widgets/widget-cta-video.php:61
+msgid "Button Text"
+msgstr "Text tlačítka"
+
+#: inc/widgets/widget-cta-simple.php:55
+msgid "Enter Fontawesome Class to show in button"
+msgstr "Zadejte do pole tlačítko Fontawesome Class"
+
+#: inc/widgets/widget-cta-simple.php:60 inc/widgets/widget-cta-video.php:66
+msgid "Button Url"
+msgstr "Tlačítko Url"
+
+#: inc/widgets/widget-cta-video.php:26
+msgid "A widget that shows Call to Action with Video"
+msgstr "Widget, který zobrazuje výzvu k akci s videem"
+
+#: inc/widgets/widget-cta-video.php:50
+msgid "Background Upload Image"
+msgstr "Nahrát obrázek pozadí"
+
+#: inc/widgets/widget-cta-video.php:55
+msgid "Video Iframe"
+msgstr "Video iframe"
+
+#: inc/widgets/widget-fields.php:207
+msgid "No file chosen"
+msgstr ""
+"Není zvolený žádný soubor\n"
+
+#: inc/widgets/widget-fields.php:215
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Upgradujte verzi aplikace WordPress pro plnou podporu médií."
+
+#: inc/widgets/widget-fields.php:234
+msgid "View File"
+msgstr ""
+"Prohlédnout soubor\n"
+
+#: inc/widgets/widget-full-promo.php:26
+msgid "A widget that Gives Full Width Promo of the object"
+msgstr "Widget, který dává plnou šířku Propagace objektu"
+
+#: inc/widgets/widget-full-promo.php:45 inc/widgets/widget-promo.php:45
+msgid "Upload Image"
+msgstr ""
+"Nahrát obrázek\n"
+
+#: inc/widgets/widget-full-promo.php:51
+msgid "Select FullWidth Style"
+msgstr "Vyberte styl FullWidth"
+
+#: inc/widgets/widget-full-promo.php:58
+msgid "Sub Title"
+msgstr "Sub Title"
+
+#: inc/widgets/widget-full-promo.php:64 inc/widgets/widget-promo.php:51
+msgid "Enter Promo Desc"
+msgstr "Zadejte promo Desc"
+
+#: inc/widgets/widget-full-promo.php:71 inc/widgets/widget-promo.php:58
+msgid "Enter Promo Button Text"
+msgstr "Zadejte text tlačítka pro promo"
+
+#: inc/widgets/widget-full-promo.php:77 inc/widgets/widget-promo.php:64
+msgid "Enter Promo Link"
+msgstr "Zadejte propagační odkaz"
+
+#: inc/widgets/widget-icon-text.php:26
+msgid "A widget that shows Text with Icon"
+msgstr "Widget, který zobrazuje Text s ikonou"
+
+#: inc/widgets/widget-icon-text.php:46
+msgid "Content"
+msgstr ""
+"Obsah\n"
+
+#: inc/widgets/widget-icon-text.php:52
+msgid "Icon"
+msgstr "Ikona"
+
+#: inc/widgets/widget-icon-text.php:57
+msgid "Read More Text"
+msgstr "Přečtěte si další text"
+
+#: inc/widgets/widget-icon-text.php:58
+msgid "Leave Empty not to show"
+msgstr "Nechte Prázdné se nezobrazovat"
+
+#: inc/widgets/widget-icon-text.php:63
+msgid "Read More Link"
+msgstr "Přečtěte si další odkaz"
+
+#: inc/widgets/widget-product1.php:24
+msgid "The Product Slide Choose your type"
+msgstr "Produktový snímek Vyberte svůj typ"
+
+#: inc/widgets/widget-product1.php:36
+msgid "Category"
+msgstr "Kategorie"
+
+#: inc/widgets/widget-product1.php:37
+msgid "Latest Product"
+msgstr "Nejnovější produkt"
+
+#: inc/widgets/widget-product1.php:38
+msgid "UpSell Product"
+msgstr "UpSell produkt"
+
+#: inc/widgets/widget-product1.php:39
+msgid "Feature Product"
+msgstr "Funkční produkt"
+
+#: inc/widgets/widget-product1.php:40
+msgid "On Sale Product"
+msgstr "Na prodej výrobku"
+
+#: inc/widgets/widget-product1.php:76
+msgid "Select Product Type"
+msgstr "Vyberte typ produktu"
+
+#: inc/widgets/widget-product1.php:83 inc/widgets/widget-product2.php:70
+msgid "Select Product Category"
+msgstr "Vyberte kategorii produktů"
+
+#: inc/widgets/widget-product1.php:91
+msgid "Select the number of Product to show"
+msgstr "Vyberte číslo produktu, který chcete zobrazit"
+
+#: inc/widgets/widget-product1.php:120
+msgid "New!"
+msgstr ""
+"Nový!\n"
+
+#: inc/widgets/widget-product2.php:20
+msgid ""
+"This widgets show the Category Image its Description and Product of that "
+"Category"
+msgstr ""
+"Tyto miniaplikace zobrazují kategorii Obrázek jeho popis a produkt této "
+"kategorie"
+
+#: inc/widgets/widget-product2.php:31
+msgid "Right Align With Category Image"
+msgstr "Zarovnejte správně s obrázkem kategorie"
+
+#: inc/widgets/widget-product2.php:32
+msgid "Left Align With Category Image"
+msgstr "Zarovnat vlevo s obrázkem kategorie"
+
+#: inc/widgets/widget-product2.php:63
+msgid "Select the Display Style (Image Alignment)"
+msgstr "Vyberte styl zobrazení (zarovnání obrazu)"
+
+#: inc/widgets/widget-promo.php:26
+msgid "A widget that Gives Promo of the object"
+msgstr "Widget, který uděluje propagaci objektu"
+
+#: woocommerce/loop/result-count.php:30
+msgid "Showing the single result"
+msgstr "Zobrazuje jediný výsledek"
+
+#: woocommerce/loop/result-count.php:32
+msgid "Showing all <span class=\"total-products\">%d results</span>"
+msgstr ""
+"Zobrazují se všechny <span class = \"total-products\">% d results </ span>"
+
+#: woocommerce/loop/result-count.php:34
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid ""
+"Showing %1$d&ndash;%2$d of <span class=\"total-products\">%3$d results</span>"
+msgstr ""
+"Zobrazují se% 1 $ d-% 2 $ d z <span class = \"total-products\">% 3 $ d "
+"výsledky </ span>"
+
+#: woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr "SKU:"
+
+#: woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/single-product/meta.php:25
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Kategorie:"
+msgstr[1] ""
+"Kategorie:\n"
+
+#: woocommerce/single-product/meta.php:26
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Štítek:"
+msgstr[1] "Tagy:"
+
+#: woocommerce/single-product/product-image.php:42
+msgid "Placeholder"
+msgstr "Zástupce"
+
+#: woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
+"Související produkty\n"
+
+#: woocommerce/single-product/up-sells.php:40
+msgid "You may also like&hellip;"
+msgstr ""
+"Mohlo by se vám také líbit...\n"
+
+#: inc/customizer/blog-settings/blog-setting.php:7
+msgid "Blog Settings"
+msgstr "Nastavení blogu"
+
+#: inc/customizer/blog-settings/blog-setting.php:24
+msgid "Blog Layout"
+msgstr "Rozvržení blogu"
+
+#: inc/customizer/general-settings/general-setting.php:5
+msgid "Widget Title Layout Settings"
+msgstr "Nastavení rozvržení titulu widgetu"
+
+#: inc/customizer/general-settings/general-setting.php:16
+msgid "Widget Title Layout Type"
+msgstr "Typ rozložení názvu widgetu"
+
+#: inc/customizer/general-settings/general-setting.php:17
+msgid "Theme have two different widget title layout select layout as you want"
+msgstr ""
+"Téma má dvě různé rozložení titulků widgetu vyberte rozložení, jak chcete"
+
+#: inc/customizer/general-settings/general-setting.php:25
+msgid "Header Layout Settings"
+msgstr "Nastavení rozvržení záhlaví"
+
+#: inc/customizer/general-settings/general-setting.php:36
+msgid "Header Layout Type"
+msgstr "Typ rozvržení záhlaví"
+
+#: inc/customizer/general-settings/general-setting.php:37
+msgid ""
+"Theme have two different heder layout select you header layout as you want"
+msgstr ""
+"Téma má dvě různé rozvržení záhlaví, vyberte rozvržení hlavičky, jak chcete"
+
+#: inc/customizer/general-settings/general-setting.php:48
+msgid "General Setting"
+msgstr "Obecné nastavení"
+
+#: inc/customizer/general-settings/general-setting.php:49
+msgid "This allows to edit the header"
+msgstr "To umožňuje upravit záhlaví"
+
+#: inc/customizer/general-settings/general-setting.php:53
+msgid "Ticker Setting"
+msgstr "Nastavení tiketu"
+
+#: inc/customizer/general-settings/general-setting.php:65
+msgid "Enable Disable Ticker"
+msgstr "Povolit Zakázat Ticker"
+
+#: inc/customizer/general-settings/general-setting.php:77
+msgid "Ticker Title"
+msgstr "Název titulek"
+
+#: inc/customizer/general-settings/general-setting.php:88
+msgid "Ticker Text 1"
+msgstr "Ticker Text 1"
+
+#: inc/customizer/general-settings/general-setting.php:99
+msgid "Ticker Text2"
+msgstr "Ticker Text 2"
+
+#: inc/customizer/general-settings/general-setting.php:110
+msgid "Ticker Text3"
+msgstr "Ticker Text 3"
+
+#: inc/customizer/general-settings/general-setting.php:121
+msgid "Ticker Text4"
+msgstr "Ticker Text 4"
+
+#: inc/customizer/general-settings/general-setting.php:128
+msgid "Header Logo"
+msgstr "Logo záhlaví"
+
+#: inc/customizer/general-settings/general-setting.php:134
+msgid "Background"
+msgstr ""
+"Pozadí\n"
+
+#: inc/customizer/general-settings/general-setting.php:147
+msgid "Select the Background type"
+msgstr "Zvolte typ pozadí"
+
+#: inc/customizer/general-settings/general-setting.php:148
+msgid "Select the Background type for your website"
+msgstr "Zvolte typ pozadí pro vaše webové stránky"
+
+#: inc/customizer/general-settings/general-setting.php:166
+msgid "Background Pattern"
+msgstr "Vzor pozadí"
+
+#: inc/customizer/general-settings/general-setting.php:179
+msgid "Layout Setting"
+msgstr "Nastavení rozvržení"
+
+#: inc/customizer/general-settings/general-setting.php:191
+msgid "Website Layout"
+msgstr "Rozložení webových stránek"
+
+#: inc/customizer/general-settings/general-setting.php:192
+msgid "Make your website either box layout or full width from click away"
+msgstr ""
+"Vytvořte webové stránky buď rozložením schránky nebo celou šířkou od kliknutí"
+
+#: inc/customizer/general-settings/general-setting.php:196
+msgid "Boxed Layout"
+msgstr "Boxed Layout"
+
+#: inc/customizer/general-settings/general-setting.php:204
+msgid "Custom CSS Section"
+msgstr "Vlastní sekce CSS"
+
+#: inc/customizer/general-settings/general-setting.php:216
+msgid "Custom CSS"
+msgstr "Vlastní CSS"
+
+#: inc/customizer/general-settings/general-setting.php:225
+msgid "Footer Copyright"
+msgstr "Zápatí autorských práv"
+
+#: inc/customizer/general-settings/general-setting.php:237
+msgid "Copyright Text"
+msgstr "Text autorských práv"
+
+#: inc/customizer/layout-settings/pagepost-setting.php:7
+msgid "Page/Post Settings"
+msgstr "Nastavení stránky / příspěvků"
+
+#: inc/customizer/layout-settings/pagepost-setting.php:8
+msgid "If not defined from cutom metabox these settings will be applied."
+msgstr ""
+"Pokud není definováno z vlastního metaboxu, budou tato nastavení použita."
+
+#: inc/customizer/layout-settings/pagepost-setting.php:28
+msgid "Single Page Layout"
+msgstr "Jednoduché rozložení stránky"
+
+#: inc/customizer/layout-settings/pagepost-setting.php:52
+msgid "Single Post Layout"
+msgstr "Jednotlivé rozložení příspěvků"
+
+#: inc/customizer/layout-settings/pagepost-setting.php:76
+msgid "Archive Page Layout"
+msgstr "Rozložení stránky archivu"
+
+#: inc/customizer/layout-settings/pagepost-setting.php:100
+msgid "Archive Page Inner View"
+msgstr "Vnitřní zobrazení stránky archivu"
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:9
+msgid "Payment/Certification Logo Setting"
+msgstr "Nastavení loga platby / certifikace"
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:10
+msgid "This allows to edit the paymentlogo"
+msgstr "To umožňuje upravovat platební logos"
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:17
+msgid "Payment Logo Images"
+msgstr "Logo výplatního loga"
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:34
+msgid "Upload Payment Logo 1 Image"
+msgstr "Odeslání platby Logo 1"
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:51
+msgid "Upload Payment Logo 2 Image"
+msgstr "Nahrát platbu Logo 2 Obrázek"
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:68
+msgid "Upload Payment Logo 3 Image"
+msgstr "Nahrát platbu Logo 3 Obrázek"
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:85
+msgid "Upload Payment Logo 4 Image"
+msgstr "Nahrát platbu Logo 4 Obrázek"
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:91
+msgid "Other Logo Images"
+msgstr "Ostatní Logo obrazy"
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:108
+msgid "Upload SSL Seal Image"
+msgstr "Nahrát obrázek SSL Seal Image"
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:123
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:138
+msgid "Upload Other Seal 2 Image"
+msgstr "Nahrát další obrázek Seal 2"
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:147
+msgid "Important Links"
+msgstr "Důležité odkazy"
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:157
+msgid "Store Pro Features"
+msgstr "Funkce Store Pro"
+
+#: inc/customizer/slider-settings/slider-setting.php:8
+msgid "Slider Setting"
+msgstr "Nastavení posuvníku"
+
+#: inc/customizer/slider-settings/slider-setting.php:9
+msgid "This allows to edit the Slider"
+msgstr "To umožňuje upravit posuvník"
+
+#: inc/customizer/slider-settings/slider-setting.php:13
+msgid "Basic Slider Settings"
+msgstr "Základní nastavení posuvníku"
+
+#: inc/customizer/slider-settings/slider-setting.php:25
+msgid "Show Slider"
+msgstr "Zobrazit posuvník"
+
+#: inc/customizer/slider-settings/slider-setting.php:37
+msgid "Show Pager"
+msgstr "Zobrazit pager"
+
+#: inc/customizer/slider-settings/slider-setting.php:49
+msgid "Show Controls"
+msgstr "Zobrazit ovládací prvky"
+
+#: inc/customizer/slider-settings/slider-setting.php:61
+msgid "Auto Transition"
+msgstr "Automatické přechod"
+
+#: inc/customizer/slider-settings/slider-setting.php:75
+msgid "Slider Transitions (Slide/Fade)"
+msgstr "Přechody posuvníků (posunutí / vyblednutí)"
+
+#: inc/customizer/slider-settings/slider-setting.php:89
+msgid "Slider Speed"
+msgstr "Rychlost posuvníku"
+
+#: inc/customizer/slider-settings/slider-setting.php:100
+msgid "Slider Pause"
+msgstr "Posunutí posuvníku"
+
+#: inc/customizer/slider-settings/slider-setting.php:111
+msgid "Show Caption"
+msgstr "Zobrazit titulky"
+
+#: inc/customizer/slider-settings/slider-setting.php:117
+msgid "Slider 1"
+msgstr "Posuvník 1"
+
+#: inc/customizer/slider-settings/slider-setting.php:123
+msgid "Slider 2"
+msgstr "Posuvník 2"
+
+#: inc/customizer/slider-settings/slider-setting.php:129
+msgid "Slider 3"
+msgstr "Posuvník 3"
+
+#: inc/customizer/slider-settings/slider-setting.php:135
+msgid "Slider 4"
+msgstr "Posuvník 4"
+
+#: inc/customizer/slider-settings/slider-setting.php:141
+msgid "Slider 5"
+msgstr "Posuvník 5"
+
+#: inc/customizer/slider-settings/slider-setting.php:150
+msgid "Select Slider Post"
+msgstr "Zvolte Posuvník"
+
+#: inc/customizer/slider-settings/slider-setting.php:162
+msgid "Select Post For Slider One"
+msgstr "Vyberte možnost Poslat pro posuvník jedna"
+
+#: inc/customizer/slider-settings/slider-setting.php:177
+msgid "Slider 1 Button Link"
+msgstr "Posuvník 1 Button Link"
+
+#: inc/customizer/slider-settings/slider-setting.php:189
+msgid "Slider 1 Button Text"
+msgstr "Text tlačítka posuvníku 1"
+
+#: inc/customizer/slider-settings/slider-setting.php:200
+msgid "Select Post For Slider Two"
+msgstr "Vyberte položku Posuvný posuvník"
+
+#: inc/customizer/slider-settings/slider-setting.php:214
+msgid "Slider 2 Button Link"
+msgstr "Posuvník 2 Button Link"
+
+#: inc/customizer/slider-settings/slider-setting.php:226
+msgid "Slider 2 Button Text"
+msgstr "Text posuvníku 2"
+
+#: inc/customizer/slider-settings/slider-setting.php:237
+msgid "Select Post For Slider Three"
+msgstr "Zvolte možnost Poslat pro posuvník tři"
+
+#: inc/customizer/slider-settings/slider-setting.php:251
+msgid "Slider 3 Button Link"
+msgstr "Posuvník 3 Button Link"
+
+#: inc/customizer/slider-settings/slider-setting.php:263
+msgid "Slider 3 Button Text"
+msgstr "Text tlačítka posuvníku 3"
+
+#: inc/customizer/slider-settings/slider-setting.php:275
+msgid "Select Post For Slider Four"
+msgstr "Zvolte možnost Poslat pro posuvník čtyři"
+
+#: inc/customizer/slider-settings/slider-setting.php:289
+msgid "Slider 4 Button Link"
+msgstr "Posuvník 4 tlačítko tlačítka"
+
+#: inc/customizer/slider-settings/slider-setting.php:301
+msgid "Slider 4 Button Text"
+msgstr "Text tlačítka posuvníku 4"
+
+#: inc/customizer/slider-settings/slider-setting.php:312
+msgid "Select Post For Slider Five"
+msgstr "Zvolte možnost Poslat pro Posuvník pět"
+
+#: inc/customizer/slider-settings/slider-setting.php:326
+msgid "Slider 5 Button Link"
+msgstr "Posuvník 5 Button Link"
+
+#: inc/customizer/slider-settings/slider-setting.php:338
+msgid "Slider 5 Button Text"
+msgstr "Tlačítko Posuvník 5 Tlačítko"
+
+#: inc/customizer/slider-settings/slider-setting.php:346
+msgid "Breadcrumb Setting"
+msgstr "Nastavení"
+
+#: inc/customizer/slider-settings/slider-setting.php:347
+msgid "This allows to upload breadcrumb background image"
+msgstr "Umožňuje nahrát obrázek na pozadí"
+
+#: inc/customizer/slider-settings/slider-setting.php:351
+msgid "WooCommerce Archive Page"
+msgstr "Archivní stránka WooCommerce"
+
+#: inc/customizer/slider-settings/slider-setting.php:363
+#: inc/customizer/slider-settings/slider-setting.php:394
+#: inc/customizer/slider-settings/slider-setting.php:425
+#: inc/customizer/slider-settings/slider-setting.php:456
+msgid "Enable/Disable Breadcrumb"
+msgstr "Aktivovat / zakázat funkci Breadcrumb"
+
+#: inc/customizer/slider-settings/slider-setting.php:376
+#: inc/customizer/slider-settings/slider-setting.php:407
+#: inc/customizer/slider-settings/slider-setting.php:438
+#: inc/customizer/slider-settings/slider-setting.php:469
+msgid "Upload Background Image"
+msgstr "Nahrát obrázek na pozadí"
+
+#: inc/customizer/slider-settings/slider-setting.php:378
+#: inc/customizer/slider-settings/slider-setting.php:409
+#: inc/customizer/slider-settings/slider-setting.php:440
+#: inc/customizer/slider-settings/slider-setting.php:471
+msgid ""
+"Uplaod Breadcrumb Background Image, Breadcrumb Background Image Size of 2000 "
+"&times; 156 Pixels."
+msgstr ""
+"Nahrát obrázek na pozadí, Breadcrumb Obrázek na pozadí Velikost 2000 a časy; "
+"156 pixelů."
+
+#: inc/customizer/slider-settings/slider-setting.php:382
+msgid "WooCommerce Single Product Page"
+msgstr "WooCommerce Jedna stránka produktu"
+
+#: inc/customizer/slider-settings/slider-setting.php:413
+msgid "Breadcrumb Page Options"
+msgstr "Možnosti stránky Drobné kroužky"
+
+#: inc/customizer/slider-settings/slider-setting.php:444
+msgid "Breadcrumb Post Options"
+msgstr "Možnosti příspěvků na dorty"
+
+#: inc/customizer/woocommerce-settings/woocommerce-setting.php:9
+#: inc/customizer/woocommerce-settings/woocommerce-setting.php:16
+msgid "Woocommerce Setting"
+msgstr "Nastavení Woocommerce"
+
+#: inc/customizer/woocommerce-settings/woocommerce-setting.php:32
+msgid "Custom Placeholder"
+msgstr "Vlastní zástupný symbol"
+
+#: inc/customizer/woocommerce-settings/woocommerce-setting.php:50
+msgid "Hide Header Product Search"
+msgstr "Skrýt Vyhledávání produktu"
+
+#. Name of the theme
+msgid "AccessPress Store"
+msgstr "AccessPress Store"
+
+#. Description of the theme
+msgid ""
+"AccessPress Store is free WordPress theme that work beautifully with "
+"WooCommerce. The theme is packed with lots of exciting feature that enhances "
+"the ecommerce experience. It features Product slider, advanced whistlist, "
+"Featured product show list, call to action and many more. With its advanced "
+"customizer options, setting up the ecommerce website has become much more "
+"easy. Great customer support via online chat, email, support forum. Official "
+"support forum: http://accesspressthemes.com/support/ View full demo here: "
+"http://demo.accesspressthemes.com/accesspress-store/"
+msgstr ""
+"AccessPress Store je zdarma WordPress téma, které skvěle funguje s "
+"WooCommerce. Téma je vybaveno spoustou zajímavých funkcí, které zlepšují "
+"zážitek z elektronického obchodu. Obsahuje posuvník produktu, rozšířený "
+"seznam whistlistů, seznam doporučených produktů, výzva k akci a mnoho "
+"dalších. Se svými pokročilými možnostmi pro personalizaci se nastavení "
+"webových stránek elektronického obchodu stalo mnohem snadnější. Skvělá "
+"zákaznická podpora prostřednictvím online chatu, e-mailu, fóra podpory. "
+"Fórum oficiální podpory: http://accesspressthemes.com/support/ Zobrazit "
+"úplné demo zde: http://demo.accesspressthemes.com/accesspress-store/"
+
+#. URI of the theme
+msgid "https://accesspressthemes.com/wordpress-themes/accesspress-store/"
+msgstr "https://accesspressthemes.com/wordpress-themes/accesspress-store/"
+
+#. Author of the theme
+msgid "AccessPress Themes"
+msgstr "AccessPress Themes"
+
+#. Author URI of the theme
+msgid "http://accesspressthemes.com/"
+msgstr "http://accesspressthemes.com/"
