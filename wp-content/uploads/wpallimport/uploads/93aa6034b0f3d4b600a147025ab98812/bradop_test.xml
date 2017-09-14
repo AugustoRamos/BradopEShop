@@ -1,0 +1,1133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SHOP>
+	<SHOPITEM>
+		<ITEM_ID>1314</ITEM_ID>
+		<PRODUCT>R18</PRODUCT>
+		<PRODUCTNAME>Křeslo pohupovací BALY</PRODUCTNAME>
+		<DESCRIPTION> 
+			Křeslo pohupovací R18
+			 
+			Materiál: masiv buk s povrchovou úpravou.
+			 
+			Křesla v mnoha různých barevných provedeních.
+			 
+			Rozměry naleznete v přiloženém obrázku.﻿
+			 
+			Nosnost 120kg.
+			﻿</DESCRIPTION>
+			<URL>http://www.bradop.cz/1314-r18.html</URL>
+			<IMGURL>http://www.bradop.cz/img/p/1314-15817.jpg</IMGURL>
+			<IMGURL_ALTERNATIVE>http://www.bradop.cz/img/p/1314-24780.jpg</IMGURL_ALTERNATIVE>
+			<ITEM_TYPE>new</ITEM_TYPE>
+			<PRICE_VAT>3113</PRICE_VAT>
+			<PRICE_VAT_30>4047</PRICE_VAT_30>
+			<PRICE_VAT_40>4359</PRICE_VAT_40>
+			<WEIGHT>10.5</WEIGHT>
+			<CONFIG_3D></CONFIG_3D>
+			<FILES>
+				<FILE>
+					<URL>http://www.bradop.cz/download/R18.PDF</URL>
+					<TITLES>
+						<TITLE>Montážní návod</TITLE>
+					</TITLES>
+				</FILE>
+			</FILES>
+			<MANUFACTURER>32</MANUFACTURER>
+			<CATEGORYTEXT>Křesla</CATEGORYTEXT>
+			<CATEGORY_ID>58</CATEGORY_ID>
+			<PARAM>
+				<PROVEDNI>Provední</PROVEDNI>
+				<VAL>H - Hnědá</VAL>
+				<VAL_ID>430</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/430.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<PROVEDNI>Provední</PROVEDNI>
+				<VAL>T - Třešeň</VAL>
+				<VAL_ID>423</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/423.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<PROVEDNI>Provední</PROVEDNI>
+				<VAL>L - Olše</VAL>
+				<VAL_ID>290</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/290.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<PROVEDNI>Provední</PROVEDNI>
+				<VAL>P - Přírodní</VAL>
+				<VAL_ID>287</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/287.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<PROVEDNI>Provední</PROVEDNI>
+				<VAL>DB - dub bordeaux</VAL>
+				<VAL_ID>1076</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1076.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<PROVEDNI>Provední</PROVEDNI>
+				<VAL>DS-Dub sonoma</VAL>
+				<VAL_ID>865</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/865.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<PROVEDNI>Provední</PROVEDNI>
+				<VAL>W - Wenge</VAL>
+				<VAL_ID>795</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/795.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<PROVEDNI>Provední</PROVEDNI>
+				<VAL>S - Bříza</VAL>
+				<VAL_ID>793</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/793.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<PROVEDNI>Provední</PROVEDNI>
+				<VAL>M - Mahagon</VAL>
+				<VAL_ID>561</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/561.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>718C - Černá květy</VAL>
+				<VAL_ID>892</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/892.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>ZRUŠENO</VAL>
+				<VAL_ID>901</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/901.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>4360C - Barcelona</VAL>
+				<VAL_ID>997</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/997.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>717C - Tmavě hnědá květy</VAL>
+				<VAL_ID>891</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/891.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>ZRUŠENO</VAL>
+				<VAL_ID>900</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/900.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>4362C - Barcelona</VAL>
+				<VAL_ID>996</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/996.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>716C - Hnědá květy</VAL>
+				<VAL_ID>890</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/890.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>ZRUŠENO</VAL>
+				<VAL_ID>899</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/899.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>4361C - Barcelona</VAL>
+				<VAL_ID>995</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/995.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>715C - Světle šedá květy</VAL>
+				<VAL_ID>889</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/889.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>ZRUŠENO</VAL>
+				<VAL_ID>898</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/898.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>4300C - Černá puntíky</VAL>
+				<VAL_ID>974</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/974.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>ZRUŠENO</VAL>
+				<VAL_ID>897</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/897.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>4302C - Šedá puntíky</VAL>
+				<VAL_ID>973</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/973.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>864C - Džakarta (doporučujeme pouze na dekorace)</VAL>
+				<VAL_ID>1029</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1029.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>ZRUŠENO</VAL>
+				<VAL_ID>896</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/896.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>4301C - Bílá puntíky</VAL>
+				<VAL_ID>971</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/971.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>863C - Džakarta (doporučujeme pouze na dekorace)</VAL>
+				<VAL_ID>1028</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1028.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>ZRUŠENO</VAL>
+				<VAL_ID>895</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/895.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>ZRUŠENO</VAL>
+				<VAL_ID>904</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/904.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>862C - Džakarta (doporučujeme pouze na dekorace)</VAL>
+				<VAL_ID>1027</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1027.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>ZRUŠENO</VAL>
+				<VAL_ID>894</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/894.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>ZRUŠENO</VAL>
+				<VAL_ID>903</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/903.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>861C - Džakarta (doporučujeme pouze na dekorace)</VAL>
+				<VAL_ID>1026</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1026.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>ZRUŠENO</VAL>
+				<VAL_ID>893</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/893.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>ZRUŠENO</VAL>
+				<VAL_ID>902</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/902.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>4352C - Barcelona</VAL>
+				<VAL_ID>998</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/998.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>230 - Corsika</VAL>
+				<VAL_ID>1010</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1010.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>730 - Šedá</VAL>
+				<VAL_ID>970</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/970.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2081 - Tmavě šedá listy</VAL>
+				<VAL_ID>906</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/906.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2057 - Šedá</VAL>
+				<VAL_ID>915</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/915.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>243 - Corsika</VAL>
+				<VAL_ID>1019</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1019.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2507 - Černá eko-kůže</VAL>
+				<VAL_ID>924</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/924.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>ZRUŠENO</VAL>
+				<VAL_ID>1033</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1033.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2309 - Červená</VAL>
+				<VAL_ID>933</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/933.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>705 - Šedo černa pruhy</VAL>
+				<VAL_ID>942</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/942.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2325 - Světle hnědá žilková</VAL>
+				<VAL_ID>951</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/951.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>134 - Oranžovožlutá ELEFANT</VAL>
+				<VAL_ID>355</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/355.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>721 - Bílo béžová</VAL>
+				<VAL_ID>960</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/960.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>1301 - Tmavá béžová</VAL>
+				<VAL_ID>879</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/879.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>229 - Corsika</VAL>
+				<VAL_ID>1009</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1009.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>729 - Světle šedá</VAL>
+				<VAL_ID>969</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/969.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2080 - Světle šedá listy</VAL>
+				<VAL_ID>905</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/905.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2052 - Šedo-hnědá</VAL>
+				<VAL_ID>914</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/914.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>242 - Corsika</VAL>
+				<VAL_ID>1018</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1018.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2506- Červená eko-kůže</VAL>
+				<VAL_ID>923</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/923.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>ZRUŠENO</VAL>
+				<VAL_ID>1032</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1032.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2308 - Tmavě hnědá</VAL>
+				<VAL_ID>932</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/932.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>710 - Bílo černá karko</VAL>
+				<VAL_ID>941</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/941.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2324 - Tmavší béžová žilková</VAL>
+				<VAL_ID>950</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/950.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>04 - Béžová</VAL>
+				<VAL_ID>319</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/319.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2334 - Černá žilková</VAL>
+				<VAL_ID>959</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/959.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>1303 - Béžová</VAL>
+				<VAL_ID>878</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/878.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>228 - Corsika</VAL>
+				<VAL_ID>1008</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1008.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>728 - Modrá</VAL>
+				<VAL_ID>968</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/968.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>1307 - Červená</VAL>
+				<VAL_ID>888</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/888.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>223 - Corsika</VAL>
+				<VAL_ID>1003</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1003.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2056 - Světle šedá</VAL>
+				<VAL_ID>913</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/913.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>238 - Corsika</VAL>
+				<VAL_ID>1017</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1017.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2505 - Hnědá eko-kůže</VAL>
+				<VAL_ID>922</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/922.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>ZRUŠENO</VAL>
+				<VAL_ID>1031</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1031.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2307 - Hnědá</VAL>
+				<VAL_ID>931</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/931.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2316 - Černá</VAL>
+				<VAL_ID>940</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/940.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2323 - Světlounce hnědá  žilková</VAL>
+				<VAL_ID>949</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/949.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>03 - Cihlová</VAL>
+				<VAL_ID>317</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/317.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2333 - Šedá žilková</VAL>
+				<VAL_ID>958</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/958.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>1300 - Světle béžová</VAL>
+				<VAL_ID>877</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/877.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>227 - Corsika</VAL>
+				<VAL_ID>1007</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1007.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>727 - Fialová</VAL>
+				<VAL_ID>967</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/967.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>1306 - Šedo-černá</VAL>
+				<VAL_ID>887</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/887.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>222 - Corsika</VAL>
+				<VAL_ID>1002</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1002.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2055 - Červená</VAL>
+				<VAL_ID>912</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/912.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>237 - Corsika</VAL>
+				<VAL_ID>1016</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1016.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2504 - Šedo-hnědá eko-kůže</VAL>
+				<VAL_ID>921</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/921.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>ZRUŠENO</VAL>
+				<VAL_ID>1030</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1030.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2306 - Světle hnědá</VAL>
+				<VAL_ID>930</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/930.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2315 - Šedá</VAL>
+				<VAL_ID>939</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/939.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2322 - Světle béžová žilková</VAL>
+				<VAL_ID>948</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/948.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>02 - Oranžová</VAL>
+				<VAL_ID>315</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/315.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2332 - Světle šedá žilková</VAL>
+				<VAL_ID>957</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/957.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>139 - Tmavě šedá ELEFANT</VAL>
+				<VAL_ID>399</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/399.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>226 - Corsika</VAL>
+				<VAL_ID>1006</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1006.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>726 - Tmavě hnědá</VAL>
+				<VAL_ID>966</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/966.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>1305 - Tmavě hnědá</VAL>
+				<VAL_ID>886</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/886.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2054 - Tmavě hnědá</VAL>
+				<VAL_ID>911</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/911.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>236 - Corsika</VAL>
+				<VAL_ID>1015</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1015.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>221 - Corsika</VAL>
+				<VAL_ID>1001</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1001.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2503 - Béžová eko-kůže</VAL>
+				<VAL_ID>920</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/920.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>343 - Rena</VAL>
+				<VAL_ID>1025</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1025.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2305 - Béžová tmavá</VAL>
+				<VAL_ID>929</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/929.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2314 - Světle šedá</VAL>
+				<VAL_ID>938</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/938.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2321 - Bílá žilková</VAL>
+				<VAL_ID>947</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/947.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2331 - Modrá žilková</VAL>
+				<VAL_ID>956</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/956.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>137 - Bílá ELEFANT</VAL>
+				<VAL_ID>397</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/397.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>225 - Corsika</VAL>
+				<VAL_ID>1005</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1005.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>725 - Hnědá</VAL>
+				<VAL_ID>965</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/965.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>1309 - Fialová</VAL>
+				<VAL_ID>885</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/885.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2053 - Hnědá</VAL>
+				<VAL_ID>910</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/910.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>235 - Corsika</VAL>
+				<VAL_ID>1014</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1014.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>220 - Corsika</VAL>
+				<VAL_ID>1000</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1000.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2502 - Vanilka eko-kůže</VAL>
+				<VAL_ID>919</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/919.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>342 - Rena</VAL>
+				<VAL_ID>1024</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1024.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2304 - Světlounká hnědá</VAL>
+				<VAL_ID>928</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/928.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2313 - Modrá</VAL>
+				<VAL_ID>937</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/937.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>707 - Hnědo modrá pruhy</VAL>
+				<VAL_ID>946</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/946.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2330 - Fialová</VAL>
+				<VAL_ID>955</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/955.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>136 - Béžová ELEFANT</VAL>
+				<VAL_ID>396</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/396.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>224 - Corsika</VAL>
+				<VAL_ID>1004</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1004.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>724 - Světle hnědá</VAL>
+				<VAL_ID>964</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/964.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>1310 - Žluto-zelená</VAL>
+				<VAL_ID>884</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/884.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>234 - Corsika</VAL>
+				<VAL_ID>1013</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1013.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>201 - Corsika</VAL>
+				<VAL_ID>999</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/999.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2051 - Světle hnědá</VAL>
+				<VAL_ID>909</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/909.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2501 - Bílá eko-kůže</VAL>
+				<VAL_ID>918</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/918.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>341 - Rena</VAL>
+				<VAL_ID>1023</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1023.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2303 - Béžová tmavá</VAL>
+				<VAL_ID>927</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/927.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2312 - Zelená</VAL>
+				<VAL_ID>936</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/936.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>712 - Hnědo modrá karko</VAL>
+				<VAL_ID>945</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/945.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2329 - Žlutá žilková</VAL>
+				<VAL_ID>954</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/954.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>133 - Světle hnědá ELEFANT</VAL>
+				<VAL_ID>394</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/394.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>732 - Šedo hnědá</VAL>
+				<VAL_ID>963</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/963.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>1302 - Hnědá</VAL>
+				<VAL_ID>883</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/883.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>233 - Corsika</VAL>
+				<VAL_ID>1012</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1012.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>731 - Černá</VAL>
+				<VAL_ID>976</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/976.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2050 - Béžová</VAL>
+				<VAL_ID>908</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/908.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2059 -Černá</VAL>
+				<VAL_ID>917</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/917.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>340 - Rena</VAL>
+				<VAL_ID>1022</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1022.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2302 - Béžová</VAL>
+				<VAL_ID>926</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/926.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2311 - Fialová</VAL>
+				<VAL_ID>935</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/935.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>706 - Béžovo bílá pruhy</VAL>
+				<VAL_ID>944</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/944.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2327 - Tmavě hnědá žilková</VAL>
+				<VAL_ID>953</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/953.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>132 - Hnědá ELEFANT</VAL>
+				<VAL_ID>393</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/393.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>723 - Hnědo žlutá</VAL>
+				<VAL_ID>962</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/962.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>1304 - Světle hnědá</VAL>
+				<VAL_ID>881</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/881.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>232 - Corsika</VAL>
+				<VAL_ID>1011</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1011.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2328 - červená žilková</VAL>
+				<VAL_ID>975</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/975.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2082 - Hnědá listy</VAL>
+				<VAL_ID>907</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/907.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2058 - Tmavě šedá</VAL>
+				<VAL_ID>916</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/916.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>244 - Corsika</VAL>
+				<VAL_ID>1020</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/1020.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2301 - Bílošedá</VAL>
+				<VAL_ID>925</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/925.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2310 - Růžová</VAL>
+				<VAL_ID>934</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/934.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>711 - Bílo béžová karko</VAL>
+				<VAL_ID>943</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/943.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>2326 - Hnědá žilková</VAL>
+				<VAL_ID>952</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/952.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>130 - Červená ELEFANT</VAL>
+				<VAL_ID>391</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/391.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>722 - Hnědo bílá</VAL>
+				<VAL_ID>961</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/961.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>1308 - Šedá</VAL>
+				<VAL_ID>880</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/880.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<PARAM>
+				<LATKA>Látka</LATKA>
+				<VAL>01 - Zelená</VAL>
+				<VAL_ID>313</VAL_ID>
+				<VAL_IMG>http://www.bradop.cz/img/co/313.jpg</VAL_IMG>
+				<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+			</PARAM>
+			<SKLADY>Kód	 Skladem
+				R18-H-01	1R18-H-02	2R18-H-03	1R18-H-04	0R18-H-105	13R18-H-11	13R18-H-130	0R18-H-131	1R18-H-132	0R18-H-133	2R18-H-134	0R18-H-135	0R18-H-136	0R18-H-137	0R18-H-138	0R18-H-139	0R18-H-4086C	0R18-H-4302C	0R18-H-571	1R18-H-710	0R18-H-716C	0R18-H-722	0R18-H-864C	0R18-L-01	1R18-L-02	2R18-L-03	1R18-L-04	0R18-L-109	12R18-L-11	12R18-L-110	12R18-L-111	12R18-L-112	12R18-L-113	12R18-L-114	12R18-L-115	12R18-L-116	12R18-L-117	12R18-L-118	12R18-L-119	12R18-L-12	12R18-L-120	12R18-L-121	12R18-L-122	12R18-L-123	12R18-L-124	12R18-L-125	12R18-L-13	12R18-L-130	0R18-L-1307	1R18-L-131	1R18-L-132	0R18-L-133	2R18-L-134	0R18-L-135	0R18-L-136	0R18-L-137	0R18-L-138	0R18-L-139	0R18-L-14	12R18-L-140	12R18-L-141	12R18-L-142	12R18-L-143	12R18-L-144	12R18-L-145	12R18-L-146	12R18-L-147	12R18-L-148	12R18-L-149	12R18-L-15	12R18-L-16	12R18-L-2302	0R18-L-2329	0R18-L-24	12R18-L-25	12R18-L-26	12R18-L-27	12R18-L-32	12R18-L-33	12R18-L-34	12R18-L-340	0R18-L-35	12R18-L-36	12R18-L-37	12R18-L-38	0R18-L-39	0R18-L-40	0R18-L-4090C	0R18-L-41	12R18-L-42	12R18-L-43	12R18-L-4301C	0R18-L-4302C	0R18-L-44	12R18-M-2323	4R18-M-39	0R18-M-40	0R18-P-01	1R18-P-02	2R18-P-03	1R18-P-04	0R18-P-05	12R18-P-101	12R18-P-102	12R18-P-103	12R18-P-104	12R18-P-105	12R18-P-106	12R18-P-107	12R18-P-108	12R18-P-109	12R18-P-11	12R18-P-110	12R18-P-111	12R18-P-112	12R18-P-113	12R18-P-13	12R18-P-130	0R18-P-1307	1R18-P-131	1R18-P-132	0R18-P-133	2R18-P-134	0R18-P-135	0R18-P-136	0R18-P-137	0R18-P-138	0R18-P-139	0R18-P-15	12R18-P-2054	0R18-P-2055	0R18-P-2056	0R18-P-2057	0R18-P-2082	0R18-P-2323	4R18-P-2330	2R18-P-2332	0R18-P-24	12R18-P-25	12R18-P-26	12R18-P-27	12R18-P-32	12R18-P-33	12R18-P-34	12R18-P-35	12R18-P-36	12R18-P-37	12R18-P-38	12R18-P-39	0R18-P-40	0R18-P-41	12R18-P-42	12R18-P-43	12R18-P-4302C	0R18-P-44	12R18-P-505	0R18-P-539	0R18-P-K44	12R18-S-1304	4R18-S-2053	0R18-S-2080	0R18-S-2324	3R18-S-233	0R18-S-729	0R18-T-01	1R18-T-02	2R18-T-03	1R18-T-04	0R18-T-05	9R18-T-101	9R18-T-102	9R18-T-103	9R18-T-104	9R18-T-105	9R18-T-106	9R18-T-107	9R18-T-108	9R18-T-109	9R18-T-11	9R18-T-110	9R18-T-111	9R18-T-112	9R18-T-113	9R18-T-114	9R18-T-115	9R18-T-116	9R18-T-130	0R18-T-131	1R18-T-132	0R18-T-133	2R18-T-134	0R18-T-135	0R18-T-136	0R18-T-137	0R18-T-138	0R18-T-139	0R18-T-4088C	0R18-T-4302C	0R18-T-723	0</SKLADY>
+			</SHOPITEM>
+		</SHOP>

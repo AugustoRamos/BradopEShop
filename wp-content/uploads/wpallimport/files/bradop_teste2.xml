@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SHOP>
+<SHOPITEM>
+<ITEM_ID>4942</ITEM_ID>
+<PRODUCT>K166</PRODUCT>
+<PRODUCTNAME>K166 Hugo</PRODUCTNAME>
+<DESCRIPTION>K166 konferenční stůl Hugo﻿
+Materiál:  lamino 18mm, ABS hrana 2mm v dřevodezénu, tloušťka horní desky 36mm,
+plastové tubusy stříbrné (u provedení wenge v černé barvě), kolečka s brzdou﻿﻿﻿</DESCRIPTION>
+<URL>http://www.bradop.cz/4942-k123.html</URL>
+<IMGURL>http://www.bradop.cz/img/p/4942-27644.jpg</IMGURL>
+<IMGURL_ALTERNATIVE>http://www.bradop.cz/img/p/4942-27645.jpg</IMGURL_ALTERNATIVE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<PRICE_VAT>1640</PRICE_VAT>
+<PRICE_VAT_30>2131</PRICE_VAT_30>
+<PRICE_VAT_40>2295</PRICE_VAT_40>
+<WEIGHT>30</WEIGHT>
+<CONFIG_3D></CONFIG_3D>
+<FILES>
+<FILE>
+<URL>http://www.bradop.cz/download/K166.PDF</URL>
+<TITLES>
+<TITLE>Montážní návod</TITLE>
+</TITLES>
+</FILE>
+</FILES>
+<MANUFACTURER>1</MANUFACTURER>
+<CATEGORYTEXT>Konferenční stoly | Oválné</CATEGORYTEXT>
+<CATEGORY_ID>210</CATEGORY_ID>
+<CATEGORY_ID>14</CATEGORY_ID>
+<PARAM>
+<PARA_NAME>Provedení</PARA_NAME>
+<VAL>DS-dub sonoma</VAL>
+<VAL_ID>1432</VAL_ID>
+<VAL_IMG>http://www.bradop.cz/img/co/1432.jpg</VAL_IMG>
+<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+</PARAM>
+<PARAM>
+<PARA_NAME>Provedení</PARA_NAME>
+<VAL>DB-bub bordeaux</VAL>
+<VAL_ID>1433</VAL_ID>
+<VAL_IMG>http://www.bradop.cz/img/co/1433.jpg</VAL_IMG>
+<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+</PARAM>
+<PARAM>
+<PARA_NAME>Provedení</PARA_NAME>
+<VAL>W-wenge</VAL>
+<VAL_ID>1436</VAL_ID>
+<VAL_IMG>http://www.bradop.cz/img/co/1436.jpg</VAL_IMG>
+<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+</PARAM>
+<PARAM>
+<PARA_NAME>Provedení</PARA_NAME>
+<VAL>P-přírodní</VAL>
+<VAL_ID>1430</VAL_ID>
+<VAL_IMG>http://www.bradop.cz/img/co/1430.jpg</VAL_IMG>
+<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+</PARAM>
+<PARAM>
+<PARA_NAME>Provedení</PARA_NAME>
+<VAL>L-olše</VAL>
+<VAL_ID>1431</VAL_ID>
+<VAL_IMG>http://www.bradop.cz/img/co/1431.jpg</VAL_IMG>
+<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+</PARAM>
+<PARAM>
+<PARA_NAME>Provedení</PARA_NAME>
+<VAL>HE-merono</VAL>
+<VAL_ID>1434</VAL_ID>
+<VAL_IMG>http://www.bradop.cz/img/co/1434.jpg</VAL_IMG>
+<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+</PARAM>
+<PARAM>
+<PARA_NAME>Provedení</PARA_NAME>
+<VAL>H-hnědá</VAL>
+<VAL_ID>1435</VAL_ID>
+<VAL_IMG>http://www.bradop.cz/img/co/1435.jpg</VAL_IMG>
+<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+</PARAM>
+<SKLADY>Kód	 Skladem
+K166-DB	4 týdny
+K166-DS	1
+K166-H	1
+K166-HE	4 týdny
+K166-L	4 týdny
+K166-P	4 týdny
+K166-W	4 týdny
+</SKLADY>

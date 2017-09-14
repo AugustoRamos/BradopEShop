@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SHOP>
+<SHOPITEM>
+<ITEM_ID>2649</ITEM_ID>
+<PRODUCT>B809</PRODUCT>
+<PRODUCTNAME>Komoda dvířka + 7 zásuvek, masiv smrk</PRODUCTNAME>
+<DESCRIPTION>Komoda B809 
+Materiál: masiv smrk 
+Tloušťka korpusu a čelních ploch 1,8cm 
+Rozměry: výška: 90cm, šířka: 125cm, hloubka: 40cm
+ 
+ 
+Provedení: AN-antique, RU-rugger, JA-jacobean - povrch.úprava vosk 
+ 
+Provedení: L-olše, OT-ořech tmavý, W-wenge, DZ-dub zlatý - povrch.úprava lak 
+Provedení: P-přírodní (bez moření) - povrchová úprava lak ﻿</DESCRIPTION>
+<URL>http://www.bradop.cz/2649-b809.html</URL>
+<IMGURL>http://www.bradop.cz/img/p/2649-21404.jpg</IMGURL>
+<IMGURL_ALTERNATIVE>http://www.bradop.cz/img/p/2649-21405.jpg</IMGURL_ALTERNATIVE>
+<ITEM_TYPE>new</ITEM_TYPE>
+<PRICE_VAT>4931</PRICE_VAT>
+<PRICE_VAT_30>6410</PRICE_VAT_30>
+<PRICE_VAT_40>6903</PRICE_VAT_40>
+<WEIGHT>49.5</WEIGHT>
+<CONFIG_3D></CONFIG_3D>
+<FILES>
+<FILE>
+<URL>http://www.bradop.cz/download/B809.PDF</URL>
+<TITLES>
+<TITLE>Montážní návod</TITLE>
+</TITLES>
+</FILE>
+</FILES>
+<MANUFACTURER>72</MANUFACTURER>
+<CATEGORYTEXT>Smrkový nábytek | Koule | Komody</CATEGORYTEXT>
+<CATEGORY_ID>127</CATEGORY_ID>
+<CATEGORY_ID>130</CATEGORY_ID>
+<CATEGORY_ID>156</CATEGORY_ID>
+<PARAM>
+<PARAM_NAME>Provedení</PARAM_NAME>
+<VAL>JA-Jacobean - příplatek [20%]</VAL>
+<VAL_ID>298</VAL_ID>
+<VAL_IMG>http://www.bradop.cz/img/co/298.jpg</VAL_IMG>
+<VAL_PRICE_IMPACT>815</VAL_PRICE_IMPACT>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Provedení</PARAM_NAME>
+<VAL>DZ-Dub zlatý - příplatek [20%]</VAL>
+<VAL_ID>297</VAL_ID>
+<VAL_IMG>http://www.bradop.cz/img/co/297.jpg</VAL_IMG>
+<VAL_PRICE_IMPACT>815</VAL_PRICE_IMPACT>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Provedení</PARAM_NAME>
+<VAL>B-bílá smrk - příplatek [20%]</VAL>
+<VAL_ID>1037</VAL_ID>
+<VAL_IMG>http://www.bradop.cz/img/co/1037.jpg</VAL_IMG>
+<VAL_PRICE_IMPACT>815</VAL_PRICE_IMPACT>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Provedení</PARAM_NAME>
+<VAL>AN-Antique - příplatek [20%]</VAL>
+<VAL_ID>296</VAL_ID>
+<VAL_IMG>http://www.bradop.cz/img/co/296.jpg</VAL_IMG>
+<VAL_PRICE_IMPACT>815</VAL_PRICE_IMPACT>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Provedení</PARAM_NAME>
+<VAL>W-Wenge - příplatek [20%]</VAL>
+<VAL_ID>868</VAL_ID>
+<VAL_IMG>http://www.bradop.cz/img/co/868.jpg</VAL_IMG>
+<VAL_PRICE_IMPACT>815</VAL_PRICE_IMPACT>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Provedení</PARAM_NAME>
+<VAL>RU-Rugger - příplatek [20%]</VAL>
+<VAL_ID>300</VAL_ID>
+<VAL_IMG>http://www.bradop.cz/img/co/300.jpg</VAL_IMG>
+<VAL_PRICE_IMPACT>815</VAL_PRICE_IMPACT>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Provedení</PARAM_NAME>
+<VAL>PO-Popelavá - příplatek [20%]</VAL>
+<VAL_ID>1038</VAL_ID>
+<VAL_IMG>http://www.bradop.cz/img/co/1038.jpg</VAL_IMG>
+<VAL_PRICE_IMPACT>815</VAL_PRICE_IMPACT>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Provedení</PARAM_NAME>
+<VAL>P - Přírodní smrk</VAL>
+<VAL_ID>845</VAL_ID>
+<VAL_IMG>http://www.bradop.cz/img/co/845.jpg</VAL_IMG>
+<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Provedení</PARAM_NAME>
+<VAL>OT-Ořech tmavý - příplatek [20%]</VAL>
+<VAL_ID>808</VAL_ID>
+<VAL_IMG>http://www.bradop.cz/img/co/808.jpg</VAL_IMG>
+<VAL_PRICE_IMPACT>815</VAL_PRICE_IMPACT>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Provedení</PARAM_NAME>
+<VAL>L-Olše smrk</VAL>
+<VAL_ID>866</VAL_ID>
+<VAL_IMG>http://www.bradop.cz/img/co/866.jpg</VAL_IMG>
+<VAL_PRICE_IMPACT>0</VAL_PRICE_IMPACT>
+</PARAM>
+<SKLADY>Kód	 Skladem
+B809-L	14 dnů
+B809-P	14 dnů
+</SKLADY></SHOPITEM>
+</SHOP>
