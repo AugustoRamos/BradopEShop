@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head><!--[if IE 6]><link rel="stylesheet" href="../nonauth/style/pda.css" media="all" type="text/css" /><![endif]--><script type="text/javascript">var k_loginParams = {};</script><script type="text/javascript" src="/nonauth/getTranslations.js.php?v=1535"></script><script type="text/javascript" src="/nonauth/getLoginType.js.php?v=1535&dest=aHR0cDovL3d3dy5icmFkb3AuY3ovZG93bmxvYWQvUjE4LlBERg%3D%3D&host=MTkyLjE2OC4xLjE1NyAyN2U0ZjdmMDVlMDFmM2E5NTM5ZmE3OGZmMTkwNmRjYw%3D%3D"></script>
+<title>Login Page - Kerio Control</title><link rel="shortcut icon" href="/admin/internal/brand_favico_user.ico?v=1535&t=1503902008" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+<script type="text/javascript">
+var k_totalCreature = true;
+var kerio = {lib:{}};
+</script>
+<script type="text/javascript" src="defaults.js?v=1535"></script>
+<!--generatedDefaults.js-->
+<script type="text/javascript">
+var k_path = k_defaults.k_weblibRoot
+? k_defaults.k_weblibRoot + '/int/login/index.js?v=1535'
+: '/weblib/int/login/index.js?v=1535';
+k_defaults.k_logoUrl = k_defaults.k_logoUrl || (kerio.engine && kerio.engine.constants && kerio.engine.constants.CUSTOM_LOGIN_LOGO_URL);
+k_defaults.k_loginButtonTextColor = k_defaults.k_loginButtonTextColor || (kerio.engine && kerio.engine.constants && kerio.engine.constants.CUSTOM_LOGIN_TEXT_COLOR);
+k_defaults.k_loginButtonBackgroundColor = k_defaults.k_loginButtonBackgroundColor || (kerio.engine && kerio.engine.constants && kerio.engine.constants.CUSTOM_LOGIN_BACKGROUND_COLOR);
+k_defaults.k_loginAdditionalInfo = k_defaults.k_loginAdditionalInfo || (kerio.engine && kerio.engine.constants && kerio.engine.constants.CUSTOM_LOGIN_ADDITIONAL_INFO);
+document.write('<script type="text/javascript" src="' + k_path + '"><\/script>');
+</script>
+<script type="text/javascript">
+kerio.login.k_initTranslations({
+_k_acceptedLanguages: undefined === kerio.engine ? [null] : [null],
+_k_supportedLanguages: undefined === kerio.engine ? ["cs", "de", "en", "es", "fr", "hr", "hu", "it", "ja", "nl", "pl", "pt", "ru", "sk", "sv", "zh"] : ["cs", "de", "en", "es", "fr", "hr", "hu", "it", "ja", "nl", "pl", "pt", "ru", "sk", "sv", "zh"]
+});
+</script>
+<!--[if IE 8]><style>#main-container { visibility: visible !important; }</style><![endif]-->
+</head>
+<body>
+<noscript><div id="upSpacer"></div><div class="contentDiv"><table width="230" cellpadding="0" cellspacing="0" class="info" align="center"><tr><td><b>You have to login to the firewall to access the Web service.</b><br><br></td></tr></table><form style="margin: 0pt;" method="post" action="/internal/dologin.php?dest=aHR0cDovL3d3dy5icmFkb3AuY3ovZG93bmxvYWQvUjE4LlBERg%3D%3D&host=MTkyLjE2OC4xLjE1NyAyN2U0ZjdmMDVlMDFmM2E5NTM5ZmE3OGZmMTkwNmRjYw%3D%3D"><table width="230" cellpadding="4" align="center"><tr><td><img src="/admin/internal/brand_logo_user.png?v=1535&t=1503902008" width="200" alt="" ></td></tr><tr><td class="label">Username</td></tr><tr><td><input type="text" name="kerio_username" size="30"  ></td></tr><tr><td class="label">Password</td></tr><tr><td><input type="password" name="kerio_password" size="30" ></td></tr><tr><td><input type="submit" value="Login"></td></tr></table></form><table width="230" cellpadding="0" cellspacing="0" class="details" align="center"><tr><td><br><a href="/nonauth/installCertificate.php" target="_blank">Install firewall certification authority
+
+
+									<br><br>Depending on the firewall restriction rules, you may not be allowed to access some web pages.
+
+
+									<br><br>
+
+
+									Privacy notice: Firewall administrator could configure the firewall to monitor web pages that you (or other users) are visiting. Visited pages are stored in log files on the firewall.</td></tr></table></div></noscript>
+<!-- "up-spacer"creates white space over login dialog -->
+<div id="up-spacer"></div>
+<div id="upper-message-container"></div>
+<div id="main-container" style='visibility: hidden;'>
+<div id="logo"><h1 id="product-name"></h1></div>
+<!-- used only in admins -->
+<div id="admin-icon"></div>
+<!-- "top" part of buble image -->
+<div id="top"></div>
+<div id="body-container">
+<!-- Text inside H will be displayed only when CSS style are not available  -->
+<div id="error-message">
+<!-- Table is used because we want empty column (with warning icon on bottom)and text in left column  -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top" width="0"><div id="warning-icon"></div></td>
+<td valign="middle"><div id="error-message-text"></div></td>
+</tr>
+</table>
+</div>
+<form name="container" action="/internal/dologin.php" method="post" id="container" novalidate="novalidate">
+<!-- ALL browsers:  "text-align:center" doesn't center hidden and than displayed element - excuse for validators -->
+					<table align="center">
+						<tr>
+							<td id="username-container"></td>
+						</tr>
+						<tr>
+							<td id="password-container"></td>
+						</tr>
+					</table>
+					<!-- place to add product specific fields, e.g. use webmail mini -->
+					<div id="input-fields"></div>
+					<div id="loginbutton-container"></div>
+					<div id="remember"></div>
+					<!--
+						Empty element at this position causes broken design of login dialog in IE7,
+						therefore &nbsp; is used as content of this div and this element has to be hidden.
+					 -->
+					<div id="hiddenfields-container">&nbsp;</div>
+				</form>
+			</div>
+			<!-- "bottom" part of buble image -->
+			<div id="bottom"></div>
+			<div id="shine"></div>
+		</div>
+		<div id="additional-message-container"></div>
+		<div id="lower-message-container"></div>
+		<div id="sso-container"></div>
+		<script type="text/javascript">
+			// Input elements cannot be created in onload event handler,
+			// because password autocomplete is not working in FF.
+
+			if (document.getElementById) {
+				k_totalCreature = false;
+
+				var
+					k_config,
+					k_engineSso = kerio.engine ? kerio.engine.sso || {} : {};
+
+				try {
+					k_config = {
+						k_isSsoEnabled: undefined === kerio.engine ? false  : k_engineSso.isEnabled,
+						k_ssoProbeUrl : undefined === kerio.engine ? '' : k_engineSso.probeUrl,
+						k_ssoSolveUrl : undefined === kerio.engine ? '' : k_engineSso.solveUrl
+					};
+				}
+				catch (k_e) {
+					// only catch exception caused by unreplaced strings for SSO
+				};
+
+				kerio.login.k_loginDialog.k_generateGui(k_config);
+
+				if (undefined === window.onload) {  // Windows Mobile < 6.5
+					kerio.login.k_loginDialog.k_init();
+				}
+			}
+		</script>
+	</body>
+	<script type="text/javascript">
+		if (k_totalCreature) {
+			alert('Unsupported browser!');  // e.g. Windows Mobile 2003
+		}
+	</script>
+</html>
