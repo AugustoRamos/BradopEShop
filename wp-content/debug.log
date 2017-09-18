@@ -1,1 +1,4 @@
-﻿
+﻿[18-Sep-2017 06:07:47 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.2. Replace with woocommerce_add_to_cart_fragments.
+[18-Sep-2017 06:08:27 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"::","locale":"en_US","timezone":"Europe\/Prague"}},"response_code":200,"response_body":{"location":{"ip":"193.85.179.90"},"events":"1 events trimmed."}}
+[18-Sep-2017 06:09:29 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.2. Replace with woocommerce_add_to_cart_fragments.
+[18-Sep-2017 06:13:34 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.2. Replace with woocommerce_add_to_cart_fragments.
