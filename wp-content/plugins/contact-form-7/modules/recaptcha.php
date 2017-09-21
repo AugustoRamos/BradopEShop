@@ -250,6 +250,27 @@ function wpcf7_recaptcha_enqueue_scripts() {
 
 add_action( 'wp_footer', 'wpcf7_recaptcha_callback_script' );
 
+remove_action( 'wpcf7_enqueue_scripts', 'wpcf7_recaptcha_enqueue_scripts' );
+add_action( 'wpcf7_enqueue_scripts', 'wpcf7_recaptcha_enqueue_scripts_custom' );
+ 
+function wpcf7_recaptcha_enqueue_scripts_custom() {
+    $hl = 'cs';
+    if (ICL_LANGUAGE_CODE == 'cs_CZ') $hl = 'cs';
+    if (ICL_LANGUAGE_CODE == 'de') $hl = 'de';
+    if (ICL_LANGUAGE_CODE == 'hu') $hl = 'hu';
+    if (ICL_LANGUAGE_CODE == 'en') $hl = 'en';
+    if (ICL_LANGUAGE_CODE == 'pl') $hl = 'pl';
+    if (ICL_LANGUAGE_CODE == 'sr') $hl = 'sr';
+     
+    $url = 'https://www.google.com/recaptcha/api.js';
+    $url = add_query_arg( array(
+        'hl' => $hl,
+        'onload' => 'recaptchaCallback',
+        'render' => 'explicit' ), $url );
+ 
+    wp_register_script( 'google-recaptcha', $url, array(), '2.0', true );
+}
+
 function wpcf7_recaptcha_callback_script() {
 	if ( ! wp_script_is( 'google-recaptcha', 'enqueued' ) ) {
 		return;
